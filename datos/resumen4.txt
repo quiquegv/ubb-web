@@ -1,0 +1,6 @@
+POST Resultados con-target: grupo elegido=90096, club en clasificacion=True, tamaño=36038
+POST Calendarios con-target: grupo elegido=90096, club en clasificacion=False, tamaño=48639
+POST Resultados sin-target: grupo elegido=90096, club en clasificacion=True, tamaño=36038
+POST Calendarios sin-target: grupo elegido=90096, club en clasificacion=False, tamaño=48639
+Rachas OK tamaño=14774
+Navegador: onchange presente=True, doPostBack presente=True
