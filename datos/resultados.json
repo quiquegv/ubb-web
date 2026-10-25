@@ -1,0 +1,1178 @@
+{
+ "actualizado": "2026-10-25T19:38:24Z",
+ "huella": "74fed6aac0648ba0a4e787b9465672ae031a37dcdf938eb43fa0eec761d82415",
+ "equipos": {
+  "primer-equipo": {
+   "competicion": "2026/2027 TERCERA FEB",
+   "grupo": "Liga Regular \"C-B\"",
+   "jornada": {
+    "titulo": "Jornada 4 25/10/2026",
+    "partidos": [
+     {
+      "texto": "OCA GLOBAL C.B. SALOU - CB ARTÉS",
+      "local": "OCA GLOBAL C.B. SALOU",
+      "visitante": "CB ARTÉS",
+      "resultado": "92-51",
+      "fecha": "25/10/2026",
+      "hora": "17:30",
+      "campo": null
+     },
+     {
+      "texto": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT - FUNDACION GRUPO JORGE BALONCESTO ZUERA",
+      "local": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
+      "visitante": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
+      "resultado": "81-65",
+      "fecha": "24/10/2026",
+      "hora": "18:00",
+      "campo": null
+     },
+     {
+      "texto": "C.B.ROSER - SD ESPANYOL BÀSQUET CORNELLÀ",
+      "local": "C.B.ROSER",
+      "visitante": "SD ESPANYOL BÀSQUET CORNELLÀ",
+      "resultado": "64-90",
+      "fecha": "25/10/2026",
+      "hora": "12:15",
+      "campo": null
+     },
+     {
+      "texto": "SANDÁ C.B. L´HOSPITALET - C.B.VALLS.TALLERS PABLO MARTÍNEZ",
+      "local": "SANDÁ C.B. L´HOSPITALET",
+      "visitante": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
+      "resultado": "99-71",
+      "fecha": "24/10/2026",
+      "hora": "18:15",
+      "campo": null
+     },
+     {
+      "texto": "PUJOL MOLLERUSSA - MONBUS - CB IGUALADA",
+      "local": "PUJOL MOLLERUSSA",
+      "visitante": "MONBUS - CB IGUALADA",
+      "resultado": "90-70",
+      "fecha": "24/10/2026",
+      "hora": "18:30",
+      "campo": null
+     },
+     {
+      "texto": "CB NAVÀS VISCOLA - SA TINTINA CB ES CASTELL MENORCA",
+      "local": "CB NAVÀS VISCOLA",
+      "visitante": "SA TINTINA CB ES CASTELL MENORCA",
+      "resultado": "87-80",
+      "fecha": "25/10/2026",
+      "hora": "12:00",
+      "campo": null
+     },
+     {
+      "texto": "LETRA CORPOREA BARBASTRO - LA PARRÓQUIA - BÁSQUET SAMÁ",
+      "local": "LETRA CORPOREA BARBASTRO",
+      "visitante": "LA PARRÓQUIA - BÁSQUET SAMÁ",
+      "resultado": "81-74",
+      "fecha": "24/10/2026",
+      "hora": "18:30",
+      "campo": null
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 5 01/11/2026",
+    "partidos": [
+     {
+      "texto": "CB ARTÉS - LA PARRÓQUIA - BÁSQUET SAMÁ",
+      "local": "CB ARTÉS",
+      "visitante": "LA PARRÓQUIA - BÁSQUET SAMÁ",
+      "resultado": null,
+      "fecha": "31/10/2026",
+      "hora": "18:15",
+      "campo": "PAVELLO ESPORTIU D'ARTES. BARCELONA, S/N (Artés)"
+     },
+     {
+      "texto": "SA TINTINA CB ES CASTELL MENORCA - LETRA CORPOREA BARBASTRO",
+      "local": "SA TINTINA CB ES CASTELL MENORCA",
+      "visitante": "LETRA CORPOREA BARBASTRO",
+      "resultado": null,
+      "fecha": "01/11/2026",
+      "hora": "12:30",
+      "campo": "PAVELLO ESPORTIU MUNICIPAL SERGIO LLULL. CAMI DE S'ESCOLA S/N (Castell, Es)"
+     },
+     {
+      "texto": "MONBUS - CB IGUALADA - CB NAVÀS VISCOLA",
+      "local": "MONBUS - CB IGUALADA",
+      "visitante": "CB NAVÀS VISCOLA",
+      "resultado": null,
+      "fecha": "31/10/2026",
+      "hora": "18:30",
+      "campo": "PAVELLO MUNICIPAL DE LES COMES. CARLES RIBA, S/N (Igualada)"
+     },
+     {
+      "texto": "C.B.VALLS.TALLERS PABLO MARTÍNEZ - PUJOL MOLLERUSSA",
+      "local": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
+      "visitante": "PUJOL MOLLERUSSA",
+      "resultado": null,
+      "fecha": "31/10/2026",
+      "hora": "19:00",
+      "campo": "PABELLÓN JOANA BALLART. C/ VILAR, S/N (Valls)"
+     },
+     {
+      "texto": "SD ESPANYOL BÀSQUET CORNELLÀ - SANDÁ C.B. L´HOSPITALET",
+      "local": "SD ESPANYOL BÀSQUET CORNELLÀ",
+      "visitante": "SANDÁ C.B. L´HOSPITALET",
+      "resultado": null,
+      "fecha": "31/10/2026",
+      "hora": "19:00",
+      "campo": "PARC ESPORTIU BAIX LLOBREGAT. AV. BAIX LLOBREGAT / SORRAL (Cornellà de Llobregat)"
+     },
+     {
+      "texto": "FUNDACION GRUPO JORGE BALONCESTO ZUERA - C.B.ROSER",
+      "local": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
+      "visitante": "C.B.ROSER",
+      "resultado": null,
+      "fecha": "31/10/2026",
+      "hora": "18:00",
+      "campo": "PAB. MUNICIPAL ZUERA. DOS AGUAS, 11 (Zuera)"
+     },
+     {
+      "texto": "OCA GLOBAL C.B. SALOU - SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
+      "local": "OCA GLOBAL C.B. SALOU",
+      "visitante": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
+      "resultado": null,
+      "fecha": "01/11/2026",
+      "hora": "12:30",
+      "campo": "Pabellón Centre Salou. Calle Milá, n°3 (Salou)"
+     }
+    ]
+   },
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "OCA GLOBAL C.B. SALOU",
+     "pj": 4,
+     "pg": 4,
+     "pp": 0,
+     "pf": 355,
+     "pc": 249,
+     "pts": 8,
+     "dif": "+4"
+    },
+    {
+     "pos": 2,
+     "equipo": "CB NAVÀS VISCOLA",
+     "pj": 3,
+     "pg": 3,
+     "pp": 0,
+     "pf": 248,
+     "pc": 234,
+     "pts": 6,
+     "dif": "+3"
+    },
+    {
+     "pos": 3,
+     "equipo": "PUJOL MOLLERUSSA",
+     "pj": 4,
+     "pg": 3,
+     "pp": 1,
+     "pf": 365,
+     "pc": 320,
+     "pts": 7,
+     "dif": "+1"
+    },
+    {
+     "pos": 4,
+     "equipo": "SD ESPANYOL BÀSQUET CORNELLÀ",
+     "pj": 3,
+     "pg": 2,
+     "pp": 1,
+     "pf": 240,
+     "pc": 208,
+     "pts": 5,
+     "dif": "+2"
+    },
+    {
+     "pos": 5,
+     "equipo": "SANDÁ C.B. L´HOSPITALET",
+     "pj": 3,
+     "pg": 2,
+     "pp": 1,
+     "pf": 257,
+     "pc": 226,
+     "pts": 5,
+     "dif": "+1"
+    },
+    {
+     "pos": 6,
+     "equipo": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
+     "pj": 3,
+     "pg": 2,
+     "pp": 1,
+     "pf": 214,
+     "pc": 206,
+     "pts": 5,
+     "dif": "+1"
+    },
+    {
+     "pos": 7,
+     "equipo": "MONBUS - CB IGUALADA",
+     "pj": 3,
+     "pg": 2,
+     "pp": 1,
+     "pf": 215,
+     "pc": 218,
+     "pts": 5,
+     "dif": "-1"
+    },
+    {
+     "pos": 8,
+     "equipo": "SA TINTINA CB ES CASTELL MENORCA",
+     "pj": 4,
+     "pg": 2,
+     "pp": 2,
+     "pf": 366,
+     "pc": 345,
+     "pts": 6,
+     "dif": "-1"
+    },
+    {
+     "pos": 9,
+     "equipo": "LETRA CORPOREA BARBASTRO",
+     "pj": 3,
+     "pg": 1,
+     "pp": 2,
+     "pf": 227,
+     "pc": 249,
+     "pts": 4,
+     "dif": "+1"
+    },
+    {
+     "pos": 10,
+     "equipo": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
+     "pj": 3,
+     "pg": 1,
+     "pp": 2,
+     "pf": 227,
+     "pc": 266,
+     "pts": 4,
+     "dif": "-2"
+    },
+    {
+     "pos": 11,
+     "equipo": "CB ARTÉS",
+     "pj": 4,
+     "pg": 1,
+     "pp": 3,
+     "pf": 276,
+     "pc": 307,
+     "pts": 5,
+     "dif": "-1"
+    },
+    {
+     "pos": 12,
+     "equipo": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
+     "pj": 4,
+     "pg": 1,
+     "pp": 3,
+     "pf": 268,
+     "pc": 328,
+     "pts": 5,
+     "dif": "-1"
+    },
+    {
+     "pos": 13,
+     "equipo": "LA PARRÓQUIA - BÁSQUET SAMÁ",
+     "pj": 3,
+     "pg": 0,
+     "pp": 3,
+     "pf": 229,
+     "pc": 255,
+     "pts": 3,
+     "dif": "-3"
+    },
+    {
+     "pos": 14,
+     "equipo": "C.B.ROSER",
+     "pj": 4,
+     "pg": 0,
+     "pp": 4,
+     "pf": 273,
+     "pc": 349,
+     "pts": 4,
+     "dif": "-4"
+    }
+   ],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=3&c=23475&med=0"
+  },
+  "senior-masculino": {
+   "competicion": "2026/2027 Segunda Aragonesa Masculina",
+   "grupo": "Primera Fase Grupo 03",
+   "jornada": {
+    "titulo": "Jornada 3 25/10/2026",
+    "partidos": [
+     {
+      "texto": "CD SAN LAZARO - BLACK LIONS B",
+      "local": "CD SAN LAZARO",
+      "visitante": "BLACK LIONS B",
+      "resultado": null,
+      "fecha": "25/10/2026",
+      "hora": null,
+      "campo": "PAB. TENERIAS. Pº ECHEGARAY Y CABALLERO (Zaragoza)"
+     },
+     {
+      "texto": "BASKET SOBRARBE - MAMIS BC",
+      "local": "BASKET SOBRARBE",
+      "visitante": "MAMIS BC",
+      "resultado": "72-68",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "IREMAR BARBASTRO - DOCTOR AZUA B",
+      "local": "IREMAR BARBASTRO",
+      "visitante": "DOCTOR AZUA B",
+      "resultado": "58-71",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "EL EQUIPO DE JAVI - FC VADORREY IBERIA",
+      "local": "EL EQUIPO DE JAVI",
+      "visitante": "FC VADORREY IBERIA",
+      "resultado": "97-66",
+      "fecha": "25/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "SUNS DE VIA AUGUSTA - C.B. VALDEFIERRO",
+      "local": "SUNS DE VIA AUGUSTA",
+      "visitante": "C.B. VALDEFIERRO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "POMPILIANO. ARZOBISPO MORCILLO (Zaragoza)"
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 4 08/11/2026",
+    "partidos": [
+     {
+      "texto": "C.B. VALDEFIERRO - CD SAN LAZARO",
+      "local": "C.B. VALDEFIERRO",
+      "visitante": "CD SAN LAZARO",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "CDM VALDEFIERRO. VIA LACTEA (Zaragoza)"
+     },
+     {
+      "texto": "FC VADORREY IBERIA - SUNS DE VIA AUGUSTA",
+      "local": "FC VADORREY IBERIA",
+      "visitante": "SUNS DE VIA AUGUSTA",
+      "resultado": null,
+      "fecha": "08/11/2026",
+      "hora": null,
+      "campo": "PAB. TENERIAS. Pº ECHEGARAY Y CABALLERO, S/N (Zaragoza)"
+     },
+     {
+      "texto": "DOCTOR AZUA B - POLIDEPORTIVO SAN AGUSTIN",
+      "local": "DOCTOR AZUA B",
+      "visitante": "POLIDEPORTIVO SAN AGUSTIN",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "DOCTOR AZUA. PEDRO III ELGRANDE, 4 (Zaragoza)"
+     },
+     {
+      "texto": "MAMIS BC - IREMAR BARBASTRO",
+      "local": "MAMIS BC",
+      "visitante": "IREMAR BARBASTRO",
+      "resultado": null,
+      "fecha": "08/11/2026",
+      "hora": null,
+      "campo": "PAB. SANTO DOMINGO. Pº ECHEGARAY Y CABALLERO (Zaragoza)"
+     },
+     {
+      "texto": "BLACK LIONS B - BASKET SOBRARBE",
+      "local": "BLACK LIONS B",
+      "visitante": "BASKET SOBRARBE",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PAB. CESAR AUGUSTO. ASIN Y PALACIOS, S/N (Zaragoza)"
+     }
+    ]
+   },
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "DOCTOR AZUA B",
+     "pj": 3,
+     "pg": 2,
+     "pp": 1,
+     "pf": 187,
+     "pc": 207,
+     "pts": 5,
+     "dif": "+2"
+    },
+    {
+     "pos": 2,
+     "equipo": "POLIDEPORTIVO SAN AGUSTIN",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 186,
+     "pc": 91,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 3,
+     "equipo": "BLACK LIONS B",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 158,
+     "pc": 121,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 4,
+     "equipo": "EL EQUIPO DE JAVI",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 160,
+     "pc": 127,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 5,
+     "equipo": "CD SAN LAZARO",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 148,
+     "pc": 133,
+     "pts": 3,
+     "dif": "-1"
+    },
+    {
+     "pos": 6,
+     "equipo": "IREMAR BARBASTRO",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 132,
+     "pc": 121,
+     "pts": 3,
+     "dif": "-1"
+    },
+    {
+     "pos": 7,
+     "equipo": "SUNS DE VIA AUGUSTA",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 134,
+     "pc": 132,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 8,
+     "equipo": "BASKET SOBRARBE",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 138,
+     "pc": 137,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 9,
+     "equipo": "MAMIS BC",
+     "pj": 3,
+     "pg": 0,
+     "pp": 3,
+     "pf": 202,
+     "pc": 226,
+     "pts": 3,
+     "dif": "-3"
+    },
+    {
+     "pos": 10,
+     "equipo": "FC VADORREY IBERIA",
+     "pj": 3,
+     "pg": 0,
+     "pp": 3,
+     "pf": 155,
+     "pc": 267,
+     "pts": 3,
+     "dif": "-3"
+    },
+    {
+     "pos": 11,
+     "equipo": "C.B. VALDEFIERRO",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 52,
+     "pc": 90,
+     "pts": 1,
+     "dif": "-1"
+    }
+   ],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=3&c=24077&med=0"
+  },
+  "senior-femenino": {
+   "competicion": "2026/2027 Tercera Aragonesa Femenina",
+   "grupo": "Primera Fase Grupo 02",
+   "jornada": {
+    "titulo": "Jornada 2 25/10/2026",
+    "partidos": [
+     {
+      "texto": "BAJO ARAGON - CB VALDEFIERRO",
+      "local": "BAJO ARAGON",
+      "visitante": "CB VALDEFIERRO",
+      "resultado": "45-21",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "MOLIERE-INTEGRATED ENGINEERING SERVICES - CB FUENTES",
+      "local": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "visitante": "CB FUENTES",
+      "resultado": "36-30",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "CBA-ESTO SE MUEVE - DOMINICOS",
+      "local": "CBA-ESTO SE MUEVE",
+      "visitante": "DOMINICOS",
+      "resultado": null,
+      "fecha": "25/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "BASKET LUPUS SFC - WIYOB BARBASTRO",
+      "local": "BASKET LUPUS SFC",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": "31-47",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 3 08/11/2026",
+    "partidos": [
+     {
+      "texto": "CB VALDEFIERRO - WIYOB BARBASTRO",
+      "local": "CB VALDEFIERRO",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "08/11/2026",
+      "hora": null,
+      "campo": "P.K. VALDEFIERRO. VIA LACTEA (Zaragoza)"
+     },
+     {
+      "texto": "DOMINICOS - BASKET LUPUS SFC",
+      "local": "DOMINICOS",
+      "visitante": "BASKET LUPUS SFC",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "DOMINICOS. PZA. SAN FRANCISCO (Zaragoza)"
+     },
+     {
+      "texto": "CB FUENTES - CBA-ESTO SE MUEVE",
+      "local": "CB FUENTES",
+      "visitante": "CBA-ESTO SE MUEVE",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PAB. FUENTES. DESCONOCIDA (Fuentes de Ebro)"
+     },
+     {
+      "texto": "BAJO ARAGON - MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "local": "BAJO ARAGON",
+      "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "BAJO ARAGON. PADRE CHAMINADE, 6 (Zaragoza)"
+     }
+    ]
+   },
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "BAJO ARAGON",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 92,
+     "pc": 54,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 2,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 114,
+     "pc": 94,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 3,
+     "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 75,
+     "pc": 75,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 4,
+     "equipo": "CB VALDEFIERRO",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 58,
+     "pc": 69,
+     "pts": 3,
+     "dif": "-1"
+    },
+    {
+     "pos": 5,
+     "equipo": "DOMINICOS",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 45,
+     "pc": 39,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 6,
+     "equipo": "CB FUENTES",
+     "pj": 2,
+     "pg": 0,
+     "pp": 2,
+     "pf": 63,
+     "pc": 83,
+     "pts": 2,
+     "dif": "-2"
+    },
+    {
+     "pos": 7,
+     "equipo": "BASKET LUPUS SFC",
+     "pj": 2,
+     "pg": 0,
+     "pp": 2,
+     "pf": 55,
+     "pc": 84,
+     "pts": 2,
+     "dif": "-2"
+    },
+    {
+     "pos": 8,
+     "equipo": "CBA-ESTO SE MUEVE",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 63,
+     "pc": 67,
+     "pts": 1,
+     "dif": "-1"
+    }
+   ],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=3&c=24078&med=0"
+  },
+  "junior-masculino": {
+   "competicion": "2026/2027 Cº Aragón Junior Masculino 3ª",
+   "grupo": "Primera Fase Grupo 02",
+   "jornada": {
+    "titulo": "Jornada 2 25/10/2026",
+    "partidos": [
+     {
+      "texto": "BASKET ARAGON - MUERDE LA PASTA ALIERTA C",
+      "local": "BASKET ARAGON",
+      "visitante": "MUERDE LA PASTA ALIERTA C",
+      "resultado": "44-69",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "SANTA ISABEL DEPORTIVO - CB MONZON",
+      "local": "SANTA ISABEL DEPORTIVO",
+      "visitante": "CB MONZON",
+      "resultado": "60-29",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "DOCTOR AZUA - MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "local": "DOCTOR AZUA",
+      "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "DOCTOR AZUA. PEDRO III EL GRANDE, 4 (Zaragoza)"
+     },
+     {
+      "texto": "BASKET LUPUS JMC - WIYOB BARBASTRO",
+      "local": "BASKET LUPUS JMC",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": "35-55",
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "MARIANISTAS C1 - CRISTO REY A",
+      "local": "MARIANISTAS C1",
+      "visitante": "CRISTO REY A",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "MARIANISTAS. Pº REYES DE ARAGON (Zaragoza)"
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 3 08/11/2026",
+    "partidos": [
+     {
+      "texto": "MUERDE LA PASTA ALIERTA C - CRISTO REY A",
+      "local": "MUERDE LA PASTA ALIERTA C",
+      "visitante": "CRISTO REY A",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "CESAR AUGUSTO. ASIN Y PALACIOS (Zaragoza)"
+     },
+     {
+      "texto": "WIYOB BARBASTRO - MARIANISTAS C1",
+      "local": "WIYOB BARBASTRO",
+      "visitante": "MARIANISTAS C1",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PAN. ANGEL ORUS. C/ ABAD Y LASIERRA (Barbastro)"
+     },
+     {
+      "texto": "MOLIERE-INTEGRATED ENGINEERING SERVICES - BASKET LUPUS JMC",
+      "local": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "visitante": "BASKET LUPUS JMC",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "ESCOLAPIOS. CONDE ARANDA (Zaragoza)"
+     },
+     {
+      "texto": "CB MONZON - DOCTOR AZUA",
+      "local": "CB MONZON",
+      "visitante": "DOCTOR AZUA",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PABELLON MUNICIPAL. DESCONOCIDA (Monzón)"
+     },
+     {
+      "texto": "BASKET ARAGON - SANTA ISABEL DEPORTIVO",
+      "local": "BASKET ARAGON",
+      "visitante": "SANTA ISABEL DEPORTIVO",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "SIGLO XXI. AV. RANILLAS (Zaragoza)"
+     }
+    ]
+   },
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "SANTA ISABEL DEPORTIVO",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 117,
+     "pc": 55,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 2,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 117,
+     "pc": 79,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 3,
+     "equipo": "MUERDE LA PASTA ALIERTA C",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 124,
+     "pc": 86,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 4,
+     "equipo": "CB MONZON",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 99,
+     "pc": 112,
+     "pts": 3,
+     "dif": "-1"
+    },
+    {
+     "pos": 5,
+     "equipo": "CRISTO REY A",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 42,
+     "pc": 31,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 6,
+     "equipo": "BASKET LUPUS JMC",
+     "pj": 2,
+     "pg": 0,
+     "pp": 2,
+     "pf": 66,
+     "pc": 97,
+     "pts": 2,
+     "dif": "-2"
+    },
+    {
+     "pos": 7,
+     "equipo": "BASKET ARAGON",
+     "pj": 2,
+     "pg": 0,
+     "pp": 2,
+     "pf": 96,
+     "pc": 139,
+     "pts": 2,
+     "dif": "-2"
+    },
+    {
+     "pos": 8,
+     "equipo": "MARIANISTAS C1",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 42,
+     "pc": 55,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 9,
+     "equipo": "DOCTOR AZUA",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 44,
+     "pc": 62,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 10,
+     "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 26,
+     "pc": 57,
+     "pts": 1,
+     "dif": "-1"
+    }
+   ],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=3&c=24073&med=0"
+  },
+  "cadete-femenino": {
+   "competicion": "2026/2027 Cadete Femenino - Huesca",
+   "grupo": "Liga Regular Grupo 01",
+   "jornada": {
+    "titulo": "Jornada 1 24/10/2026",
+    "partidos": [
+     {
+      "texto": "VISALIA CBF HUESCA - C.D.E. SANTA ANA BINACED",
+      "local": "VISALIA CBF HUESCA",
+      "visitante": "C.D.E. SANTA ANA BINACED",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "C.B. GRAUS - WIYOB BARBASTRO",
+      "local": "C.B. GRAUS",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "PAB. MUNICIPAL. BENABARRE, S/N (Graus)"
+     },
+     {
+      "texto": "C. DENTAL FRANCISCA VIZCARRA JACA - PEÑA LA MURGA SABIÑÁNIGO",
+      "local": "C. DENTAL FRANCISCA VIZCARRA JACA",
+      "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "POLIDEPORTIVO MONTE OROEL. CALLE ESTACION, C/Nº (Jaca)"
+     },
+     {
+      "texto": "STAR CBF HUESCA - C.B. MONZÓN",
+      "local": "STAR CBF HUESCA",
+      "visitante": "C.B. MONZÓN",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "PAB. ALCORAZ. DOCTOR ARTERO, 14 (Huesca)"
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 2 07/11/2026",
+    "partidos": [
+     {
+      "texto": "CB PEÑAS - VISALIA CBF HUESCA",
+      "local": "CB PEÑAS",
+      "visitante": "VISALIA CBF HUESCA",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PAB. ALCORAZ. CALLE BINÉFAR, 5 (_ (Huesca))"
+     },
+     {
+      "texto": "PEÑA LA MURGA SABIÑÁNIGO - STAR CBF HUESCA",
+      "local": "PEÑA LA MURGA SABIÑÁNIGO",
+      "visitante": "STAR CBF HUESCA",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "WIYOB BARBASTRO - C. DENTAL FRANCISCA VIZCARRA JACA",
+      "local": "WIYOB BARBASTRO",
+      "visitante": "C. DENTAL FRANCISCA VIZCARRA JACA",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "Pabellón Angel Orús. C/Obispo Abad y Lasierra, s/núm (Barbastro)"
+     },
+     {
+      "texto": "C.D.E. SANTA ANA BINACED - C.B. GRAUS",
+      "local": "C.D.E. SANTA ANA BINACED",
+      "visitante": "C.B. GRAUS",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PABELLON MUNICIPAL. PABELLON MUNICIPAL (Binaced)"
+     }
+    ]
+   },
+   "clasificacion": [],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=30&c=24099&med=0"
+  },
+  "cadete-masculino": {
+   "competicion": "2026/2027 Cadete Masculino - Huesca",
+   "grupo": "Liga Regular Grupo 01",
+   "jornada": {
+    "titulo": "Jornada 1 24/10/2026",
+    "partidos": [
+     {
+      "texto": "C.B. GRAUS - WIYOB BARBASTRO",
+      "local": "C.B. GRAUS",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "PAB. GRAUS. CTRA. BENABARRE, S/N (Graus)"
+     },
+     {
+      "texto": "CARNICERIA UBIETO JACA - PEÑA LA MURGA SABIÑÁNIGO",
+      "local": "CARNICERIA UBIETO JACA",
+      "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "POLIDEPORTIVO MONTE OROEL. CALLE ESTACION, S/Nº (Jaca)"
+     },
+     {
+      "texto": "NEUMÁTICOS BARA BOSCOS - EID SOBRARBE",
+      "local": "NEUMÁTICOS BARA BOSCOS",
+      "visitante": "EID SOBRARBE",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "DON BOSCO. AVDA. MONREAL, 14 (Huesca)"
+     },
+     {
+      "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - C.B. PEÑAS A",
+      "local": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "visitante": "C.B. PEÑAS A",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "PAB. DON BOSCOS. AV. MONREAL, 14 (Huesca)"
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 2 07/11/2026",
+    "partidos": [
+     {
+      "texto": "C.B. PEÑAS A - C.B. PEÑAS B",
+      "local": "C.B. PEÑAS A",
+      "visitante": "C.B. PEÑAS B",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PEÑAS CENTER. C/ Alcañiz, 5-7 (Huesca)"
+     },
+     {
+      "texto": "EID SOBRARBE - SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "local": "EID SOBRARBE",
+      "visitante": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PABELLON MUNICIPAL. PABELLON MUNICIPAL (Boltaña)"
+     },
+     {
+      "texto": "PEÑA LA MURGA SABIÑÁNIGO - NEUMÁTICOS BARA BOSCOS",
+      "local": "PEÑA LA MURGA SABIÑÁNIGO",
+      "visitante": "NEUMÁTICOS BARA BOSCOS",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PAB. MUNICIPAL PUENTE SARDAS. C/ DERECHOS HUMANOS, 1 (Sabiñánigo)"
+     },
+     {
+      "texto": "WIYOB BARBASTRO - CARNICERIA UBIETO JACA",
+      "local": "WIYOB BARBASTRO",
+      "visitante": "CARNICERIA UBIETO JACA",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PABELLÓN ANGEL ORÚS. C/OBISPO ABAD Y LASIERRA, S/NÚM (Barbastro)"
+     }
+    ]
+   },
+   "clasificacion": [],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=30&c=24240&med=0"
+  },
+  "infantil-masculino": {
+   "competicion": "2026/2027 Infantil Masculino - Huesca",
+   "grupo": "Liga Regular Grupo 01",
+   "jornada": {
+    "titulo": "Jornada 1 24/10/2026",
+    "partidos": [
+     {
+      "texto": "C.B. GRAUS - C.B. MONZÓN AMARILLO",
+      "local": "C.B. GRAUS",
+      "visitante": "C.B. MONZÓN AMARILLO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "PAB. GRAUS. CTRA. BENASQUE S/NÚM (Graus)"
+     },
+     {
+      "texto": "WIYOB BARBASTRO - C.B. MONZÓN NEGRO",
+      "local": "WIYOB BARBASTRO",
+      "visitante": "C.B. MONZÓN NEGRO",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": "Pabellón Angel Orús. C/Obispo Abad y Lasierra, s/núm (Barbastro)"
+     },
+     {
+      "texto": "IES RAMON Y CAJAL HUESCA - SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "local": "IES RAMON Y CAJAL HUESCA",
+      "visitante": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "resultado": null,
+      "fecha": "24/10/2026",
+      "hora": null,
+      "campo": null
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 2 07/11/2026",
+    "partidos": [
+     {
+      "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - C.B. GRAUS",
+      "local": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "visitante": "C.B. GRAUS",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "PAB. DON BOSCO. AV. MONREAL, 14 (Huesca)"
+     },
+     {
+      "texto": "C.B. MONZÓN NEGRO - IES RAMON Y CAJAL HUESCA",
+      "local": "C.B. MONZÓN NEGRO",
+      "visitante": "IES RAMON Y CAJAL HUESCA",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": "LOS OLIMPICOS. C/Los Deportes, s/núm (Monzón)"
+     },
+     {
+      "texto": "C.B. MONZÓN AMARILLO - WIYOB BARBASTRO",
+      "local": "C.B. MONZÓN AMARILLO",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "07/11/2026",
+      "hora": "16:00",
+      "campo": "PABELLÓN LOS OLÍMPICOS. C/LOS DEPORTES, S/NÚM (Monzón)"
+     }
+    ]
+   },
+   "clasificacion": [],
+   "club": "BARBASTRO",
+   "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=30&c=24242&med=0"
+  }
+ }
+}
