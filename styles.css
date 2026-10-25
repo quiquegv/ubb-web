@@ -191,7 +191,7 @@ dialog.roster::backdrop{background:rgba(20,22,24,0.65);}
 
 /* ---------- FOOTER ---------- */
 footer{background:var(--carbon);color:rgba(255,255,255,0.75);padding:56px 0 24px;margin-top:20px;}
-.footer-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:40px;align-items:start;}
+.footer-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:40px;align-items:start;}
 .footer-brand{display:flex;align-items:center;gap:12px;margin-bottom:12px;}
 .footer-brand img{height:38px;width:auto;}
 footer h4{color:var(--white);font-family:'Work Sans',sans-serif;text-transform:uppercase;font-size:0.85rem;letter-spacing:1px;margin-bottom:14px;}
