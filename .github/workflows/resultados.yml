@@ -1,0 +1,31 @@
+name: Actualizar resultados
+on:
+  schedule:
+    - cron: "30 18,21 * * 6"
+    - cron: "30 11,14,18,21 * * 0"
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: resultados
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Leer resultados de las federaciones
+        run: python3 actualizar_resultados.py
+      - name: Guardar si hay cambios
+        if: always()
+        run: |
+          git config user.name "ubb-bot"
+          git config user.email "ubb-bot@users.noreply.github.com"
+          git add datos/resultados.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Resultados actualizados"
+            git pull --rebase
+            git push
+          fi
