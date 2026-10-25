@@ -1,0 +1,907 @@
+{
+ "30-24099": {
+  "titulo": "Cadete Femenino - Huesca",
+  "grupos": [
+   [
+    "90265",
+    "Liga Regular Grupo 01"
+   ]
+  ]
+ },
+ "30-24240": {
+  "titulo": "Cadete Masculino - Huesca",
+  "grupos": [
+   [
+    "90264",
+    "Liga Regular Grupo 01"
+   ]
+  ]
+ },
+ "30-24242": {
+  "titulo": "Infantil Masculino - Huesca",
+  "grupos": [
+   [
+    "90266",
+    "Liga Regular Grupo 01"
+   ]
+  ]
+ },
+ "32-24136": {
+  "titulo": "Cadete Femenino ´C´",
+  "grupos": [
+   [
+    "90201",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90202",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90203",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90204",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90205",
+    "Primera Fase Grupo 05"
+   ]
+  ]
+ },
+ "32-24191": {
+  "titulo": "Cadete Masculino ´C´",
+  "grupos": [
+   [
+    "90192",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90194",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90193",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90191",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24199": {
+  "titulo": "Cadete Masculino ´B´",
+  "grupos": [
+   [
+    "90186",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90189",
+    "Primera Fase Grupo 05"
+   ],
+   [
+    "90187",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90188",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90185",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90190",
+    "Primera Fase Grupo 06"
+   ]
+  ]
+ },
+ "32-24200": {
+  "titulo": "Cadete Femenino ´B´",
+  "grupos": [
+   [
+    "90198",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90195",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90200",
+    "Primera Fase Grupo 06"
+   ],
+   [
+    "90197",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90196",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90199",
+    "Primera Fase Grupo 05"
+   ]
+  ]
+ },
+ "32-24213": {
+  "titulo": "Alevín Femenino ´B´",
+  "grupos": [
+   [
+    "90239",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90238",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90240",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90237",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24214": {
+  "titulo": "Alevín Femenino ´C´",
+  "grupos": [
+   [
+    "90244",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90241",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90242",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90245",
+    "Primera Fase Grupo 05"
+   ],
+   [
+    "90243",
+    "Primera Fase Grupo 03"
+   ]
+  ]
+ },
+ "32-24215": {
+  "titulo": "Alevín Masculino ´B´",
+  "grupos": [
+   [
+    "90231",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90232",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90230",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24216": {
+  "titulo": "Alevin Masculino ´C´",
+  "grupos": [
+   [
+    "90233",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90234",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90235",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90236",
+    "Primera Fase Grupo 04"
+   ]
+  ]
+ },
+ "32-24217": {
+  "titulo": "Alevín Mixto C",
+  "grupos": [
+   [
+    "90247",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90246",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24218": {
+  "titulo": "Benjamín Femenino A",
+  "grupos": [
+   [
+    "90253",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24219": {
+  "titulo": "Benjamín Femenino B",
+  "grupos": [
+   [
+    "90254",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90255",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "32-24220": {
+  "titulo": "Benjamín Femenino C",
+  "grupos": [
+   [
+    "90259",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90256",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90260",
+    "Primera Fase Grupo 05"
+   ],
+   [
+    "90258",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90257",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "32-24221": {
+  "titulo": "Benjamín Masculino A",
+  "grupos": [
+   [
+    "90248",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24222": {
+  "titulo": "Benjamín Masculino B",
+  "grupos": [
+   [
+    "90250",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90249",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24223": {
+  "titulo": "Benjamín Masculino C",
+  "grupos": [
+   [
+    "90251",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90252",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "32-24224": {
+  "titulo": "Benjamín Mixto B-C",
+  "grupos": [
+   [
+    "90262",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90263",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90261",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24225": {
+  "titulo": "Infantil Femenino ´B´",
+  "grupos": [
+   [
+    "90213",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90212",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90210",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90211",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90214",
+    "Primera Fase Grupo 05"
+   ]
+  ]
+ },
+ "32-24226": {
+  "titulo": "Infantil Femenino ´C´",
+  "grupos": [
+   [
+    "90217",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90216",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90219",
+    "Primera Fase Grupo 05"
+   ],
+   [
+    "90218",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90215",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24227": {
+  "titulo": "Infantil Masculino ´B´",
+  "grupos": [
+   [
+    "90207",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90206",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24228": {
+  "titulo": "Infantil Masculino ´C´",
+  "grupos": [
+   [
+    "90208",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90209",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "32-24229": {
+  "titulo": "Infantil Mixto",
+  "grupos": [
+   [
+    "90220",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24230": {
+  "titulo": "Preinfantil Femenino ´A´",
+  "grupos": [
+   [
+    "90225",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24231": {
+  "titulo": "Preinfantil Femenino ´B´",
+  "grupos": [
+   [
+    "90226",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90227",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "32-24232": {
+  "titulo": "Preinfantil Femenino ´C´",
+  "grupos": [
+   [
+    "90229",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90228",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24233": {
+  "titulo": "Preinfantil Masculino A",
+  "grupos": [
+   [
+    "90221",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24234": {
+  "titulo": "Preinfantil Masculino B",
+  "grupos": [
+   [
+    "90223",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90222",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "32-24235": {
+  "titulo": "Preinfantil Masculino C",
+  "grupos": [
+   [
+    "90224",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24339": {
+  "titulo": "Liga Social Femenina",
+  "grupos": [
+   [
+    "90280",
+    "Liga Regular Grupo 01"
+   ]
+  ]
+ },
+ "3-23467": {
+  "titulo": "LF ENDESA",
+  "grupos": [
+   [
+    "89975",
+    "Liga Regular Único"
+   ]
+  ]
+ },
+ "3-23460": {
+  "titulo": "COPA ESPAÑA",
+  "grupos": [
+   [
+    "90033",
+    "FASE DE GRUPOS \"A\""
+   ],
+   [
+    "90037",
+    "FASE DE GRUPOS \"E\""
+   ]
+  ]
+ },
+ "3-23473": {
+  "titulo": "PRIMERA FEB",
+  "grupos": [
+   [
+    "89991",
+    "Liga Regular Único"
+   ]
+  ]
+ },
+ "3-23466": {
+  "titulo": "LF CHALLENGE",
+  "grupos": [
+   [
+    "89981",
+    "Liga Regular Único"
+   ]
+  ]
+ },
+ "3-23474": {
+  "titulo": "SEGUNDA FEB",
+  "grupos": [
+   [
+    "90000",
+    "Liga Regular \"B\""
+   ]
+  ]
+ },
+ "3-23465": {
+  "titulo": "L.F.-2",
+  "grupos": [
+   [
+    "89990",
+    "Liga Regular \"B\""
+   ]
+  ]
+ },
+ "3-23475": {
+  "titulo": "TERCERA FEB",
+  "grupos": [
+   [
+    "90064",
+    "Liga Regular \"C-B\""
+   ],
+   [
+    "90063",
+    "Liga Regular \"C-A\""
+   ]
+  ]
+ },
+ "3-23471": {
+  "titulo": "LIGA U",
+  "grupos": [
+   [
+    "90028",
+    "LIGA REGULAR GRUPO \"B\""
+   ],
+   [
+    "90027",
+    "LIGA REGULAR GRUPO \"A\""
+   ]
+  ]
+ },
+ "3-23991": {
+  "titulo": "Copa Aragón Tercera FEB",
+  "grupos": [
+   [
+    "90069",
+    "Copa Aragón Grupo A"
+   ]
+  ]
+ },
+ "3-23889": {
+  "titulo": "Supercopa Ibercaja Femenina",
+  "grupos": [
+   [
+    "90050",
+    "Copa Aragón Grupo B"
+   ],
+   [
+    "90049",
+    "Copa Aragón Grupo A"
+   ],
+   [
+    "90051",
+    "Liga Regular Grupo 01"
+   ]
+  ]
+ },
+ "3-23919": {
+  "titulo": "Primera Nacional Masculina A1",
+  "grupos": [
+   [
+    "90052",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90053",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-23920": {
+  "titulo": "Primera Nacional Masculina A2",
+  "grupos": [
+   [
+    "90055",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90054",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-23918": {
+  "titulo": "Copa Aragón Femenina",
+  "grupos": [
+   [
+    "90056",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24077": {
+  "titulo": "Segunda Aragonesa Masculina",
+  "grupos": [
+   [
+    "90097",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90096",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90094",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90095",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-24076": {
+  "titulo": "Segunda Aragonesa Femenina",
+  "grupos": [
+   [
+    "90098",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90099",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90101",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90100",
+    "Primera Fase Grupo 03"
+   ]
+  ]
+ },
+ "3-24079": {
+  "titulo": "Tercera Aragonesa Masculina",
+  "grupos": [
+   [
+    "90104",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90103",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90105",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90102",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24078": {
+  "titulo": "Tercera Aragonesa Femenina",
+  "grupos": [
+   [
+    "90107",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90106",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24075": {
+  "titulo": "Superliga Social",
+  "grupos": [
+   [
+    "90131",
+    "Copa Federación Grupo 02"
+   ],
+   [
+    "90132",
+    "Copa Federación Grupo 03"
+   ],
+   [
+    "90130",
+    "Copa Federación Grupo 01"
+   ],
+   [
+    "90133",
+    "Liga Regular Grupo 01"
+   ]
+  ]
+ },
+ "3-24074": {
+  "titulo": "Liga Social Bronce",
+  "grupos": [
+   [
+    "90128",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90129",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-23917": {
+  "titulo": "Cº Aragón Junior Masculino 1ª",
+  "grupos": [
+   [
+    "90058",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90057",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24072": {
+  "titulo": "Cº Aragón Junior Masculino 2ª",
+  "grupos": [
+   [
+    "90121",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90122",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90123",
+    "Primera Fase Grupo 03"
+   ]
+  ]
+ },
+ "3-24070": {
+  "titulo": "Cº Aragón Junior Femenino 2ª",
+  "grupos": [
+   [
+    "90117",
+    "Primera Fase Grupo 03"
+   ],
+   [
+    "90116",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90119",
+    "Primera Fase Grupo 05"
+   ],
+   [
+    "90118",
+    "Primera Fase Grupo 04"
+   ],
+   [
+    "90115",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90120",
+    "Primera Fase Grupo 06"
+   ]
+  ]
+ },
+ "3-24073": {
+  "titulo": "Cº Aragón Junior Masculino 3ª",
+  "grupos": [
+   [
+    "90125",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90124",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24071": {
+  "titulo": "Cº Aragón Junior Femenino 3ª",
+  "grupos": [
+   [
+    "90126",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90127",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-24158": {
+  "titulo": "Cº Aragón Cadete Masculino",
+  "grupos": [
+   [
+    "90174",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90173",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24157": {
+  "titulo": "Cº Aragón Cadete Femenino",
+  "grupos": [
+   [
+    "90175",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90176",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-24212": {
+  "titulo": "Cº Aragón Infantil Masculino",
+  "grupos": [
+   [
+    "90177",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90178",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-24211": {
+  "titulo": "Cº Aragón Infantil Femenino",
+  "grupos": [
+   [
+    "90180",
+    "Primera Fase Grupo 02"
+   ],
+   [
+    "90179",
+    "Primera Fase Grupo 01"
+   ]
+  ]
+ },
+ "3-24210": {
+  "titulo": "Cº Aragón Alevín Masculino",
+  "grupos": [
+   [
+    "90181",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90182",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ },
+ "3-24209": {
+  "titulo": "Cº Aragón Alevin Femenino",
+  "grupos": [
+   [
+    "90183",
+    "Primera Fase Grupo 01"
+   ],
+   [
+    "90184",
+    "Primera Fase Grupo 02"
+   ]
+  ]
+ }
+}
