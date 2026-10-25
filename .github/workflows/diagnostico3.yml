@@ -1,0 +1,90 @@
+name: Diagnóstico 3 - grupos y equipos del club
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recorrer grupos y localizar equipos del club
+        run: |
+          python3 - <<'PY'
+          import re, time, html, os, json, urllib.request
+          UA = "UBB-web/1.0 (+https://github.com/quiquegv/ubb-web)"
+          B = "https://competiciones.feb.es/autonomicas/"
+          os.makedirs("datos/raw", exist_ok=True)
+
+          def get(path):
+              time.sleep(1.5)
+              req = urllib.request.Request(B + path, headers={"User-Agent": UA})
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  raw = r.read()
+              try:
+                  return raw.decode("utf-8")
+              except UnicodeDecodeError:
+                  return raw.decode("cp1252", errors="replace")
+
+          def save(name, txt):
+              open("datos/raw/" + name + ".html", "w", encoding="utf-8").write(txt)
+
+          def opciones(txt, nombre):
+              m = re.search(r'<select name="%s".*?</select>' % re.escape(nombre), txt, re.S)
+              return re.findall(r'value="(\d+)">(.*?)</option>', m.group(0), re.S) if m else []
+
+          out, grupos, hallados = [], {}, []
+          comps = []
+          for a in (30, 32, 3):
+              try:
+                  ini = get("Resultados.aspx?a=%d" % a)
+              except Exception as e:
+                  out.append("FALLO inicio a=%d: %s" % (a, e))
+                  continue
+              for c, t in opciones(ini, "controlNavegacion:categoriasDropDownList"):
+                  comps.append((a, c, html.unescape(t).strip()))
+          out.append("%d competiciones" % len(comps))
+
+          for a, c, t in comps:
+              try:
+                  eq = get("Equipos.aspx?a=%d&c=%s&med=0" % (a, c))
+              except Exception as e:
+                  out.append("FALLO equipos %s %s: %s" % (c, t, e))
+                  continue
+              gs = [(g, html.unescape(n).strip()) for g, n in opciones(eq, "gruposDropDownList")]
+              grupos["%d-%s" % (a, c)] = {"titulo": t, "grupos": gs}
+              for g, n in gs:
+                  try:
+                      cr = get("ResultadosCruzados.aspx?g=%s&a=%d&med=0" % (g, a))
+                  except Exception as e:
+                      out.append("FALLO cruzados %s: %s" % (g, e))
+                      continue
+                  if "BARBASTRO" in cr.upper():
+                      save("cruzados-%d-%s" % (a, g), cr)
+                      hallados.append((a, c, g, t, n))
+                      nombres = sorted(set(re.findall(r'[^<>\n]*BARBASTRO[^<>\n]*', cr, re.I)))
+                      out.append("SI  a=%d c=%s g=%s | %s | %s | %s" % (a, c, g, t, n, " / ".join(x.strip() for x in nombres[:3])))
+              out.append("ok  %s %s (%d grupos)" % (c, t, len(gs)))
+
+          # Pruebas: ¿acepta la dirección el parámetro g= (grupo)?
+          pruebas = [(a, c, g) for a, c, g, t, n in hallados]
+          if "3-23475" in grupos:
+              pruebas += [(3, "23475", g) for g, n in grupos["3-23475"]["grupos"]]
+          for a, c, g in pruebas:
+              for pag, pref in (("Resultados", "resultados"), ("Calendarios", "calendario")):
+                  try:
+                      save("%s-%d-%s-g%s" % (pref, a, c, g), get("%s.aspx?a=%d&c=%s&g=%s&med=0" % (pag, a, c, g)))
+                  except Exception as e:
+                      out.append("FALLO %s %s %s: %s" % (pag, c, g, e))
+
+          json.dump(grupos, open("datos/grupos.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          open("datos/resumen3.txt", "w", encoding="utf-8").write("\n".join(out))
+          print("\n".join(out))
+          PY
+      - name: Guardar
+        run: |
+          git config user.name "ubb-bot"
+          git config user.email "ubb-bot@users.noreply.github.com"
+          git add datos
+          git commit -m "Diagnóstico 3: grupos y equipos del club" || echo "sin cambios"
+          git push
