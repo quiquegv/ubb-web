@@ -1,0 +1,64 @@
+huesca: 3 categorias
+  SI  24099 Cadete Femenino - Huesca -> Barbastro | UNIÃ“N BASKET BARBASTRO 2018 | WIYOB BARBASTRO | a href='mailto:unionbasketbarbastro@gmail.com' | unionbasketbarbastro@gmail.com
+  SI  24240 Cadete Masculino - Huesca -> Barbastro | UNIÃ“N BASKET BARBASTRO 2018 | WIYOB BARBASTRO | a href='mailto:unionbasketbarbastro@gmail.com' | unionbasketbarbastro@gmail.com
+  SI  24242 Infantil Masculino - Huesca -> Barbastro | UNIÃ“N BASKET BARBASTRO 2018 | WIYOB BARBASTRO | a href='mailto:unionbasketbarbastro@gmail.com' | unionbasketbarbastro@gmail.com
+zaragoza: 27 categorias
+  no  24136 Cadete Femenino ´C´
+  no  24191 Cadete Masculino ´C´
+  no  24199 Cadete Masculino ´B´
+  no  24200 Cadete Femenino ´B´
+  no  24213 Alevín Femenino ´B´
+  no  24214 Alevín Femenino ´C´
+  no  24215 Alevín Masculino ´B´
+  no  24216 Alevin Masculino ´C´
+  no  24217 Alevín Mixto C
+  no  24218 Benjamín Femenino A
+  no  24219 Benjamín Femenino B
+  no  24220 Benjamín Femenino C
+  no  24221 Benjamín Masculino A
+  no  24222 Benjamín Masculino B
+  no  24223 Benjamín Masculino C
+  no  24224 Benjamín Mixto B-C
+  no  24225 Infantil Femenino ´B´
+  no  24226 Infantil Femenino ´C´
+  no  24227 Infantil Masculino ´B´
+  no  24228 Infantil Masculino ´C´
+  no  24229 Infantil Mixto
+  no  24230 Preinfantil Femenino ´A´
+  no  24231 Preinfantil Femenino ´B´
+  no  24232 Preinfantil Femenino ´C´
+  no  24233 Preinfantil Masculino A
+  no  24234 Preinfantil Masculino B
+  no  24235 Preinfantil Masculino C
+fab: 31 categorias
+  no  24339 Liga Social Femenina
+  no  23467 LF ENDESA
+  no  23460 COPA ESPAÑA
+  no  23473 PRIMERA FEB
+  no  23466 LF CHALLENGE
+  no  23474 SEGUNDA FEB
+  no  23465 L.F.-2
+  SI  23475 TERCERA FEB -> Barbastro | LETRA CORPOREA BARBASTRO | UNION BASKET BARBASTRO 2018 | a href='mailto:unionbasketbarbastro@gmail.com' | unionbasketbarbastro@gmail.com
+  no  23471 LIGA U
+  SI  23991 Copa Aragón Tercera FEB -> Barbastro | LETRA CORPOREA BARBASTRO | UNION BASKET BARBASTRO 2018
+  no  23889 Supercopa Ibercaja Femenina
+  no  23919 Primera Nacional Masculina A1
+  no  23920 Primera Nacional Masculina A2
+  no  23918 Copa Aragón Femenina
+  no  24077 Segunda Aragonesa Masculina
+  no  24076 Segunda Aragonesa Femenina
+  no  24079 Tercera Aragonesa Masculina
+  SI  24078 Tercera Aragonesa Femenina -> Barbastro | UNION BASKET BARBASTRO 2018 | WIYOB BARBASTRO
+  no  24075 Superliga Social
+  no  24074 Liga Social Bronce
+  no  23917 Cº Aragón Junior Masculino 1ª
+  no  24072 Cº Aragón Junior Masculino 2ª
+  no  24070 Cº Aragón Junior Femenino 2ª
+  SI  24073 Cº Aragón Junior Masculino 3ª -> Barbastro | UNION BASKET BARBASTRO 2018 | WIYOB BARBASTRO
+  no  24071 Cº Aragón Junior Femenino 3ª
+  no  24158 Cº Aragón Cadete Masculino
+  no  24157 Cº Aragón Cadete Femenino
+  no  24212 Cº Aragón Infantil Masculino
+  no  24211 Cº Aragón Infantil Femenino
+  no  24210 Cº Aragón Alevín Masculino
+  no  24209 Cº Aragón Alevin Femenino
