@@ -1,0 +1,101 @@
+name: Diagnóstico 4 - cambiar de grupo
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Probar el cambio de grupo y otras páginas
+        run: |
+          python3 - <<'PY'
+          import re, time, html, os, urllib.request, urllib.parse
+          UA = "UBB-web/1.0 (+https://github.com/quiquegv/ubb-web)"
+          BROWSER = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+          B = "https://competiciones.feb.es/autonomicas/"
+          os.makedirs("datos/raw", exist_ok=True)
+          out = []
+
+          def fetch(path, data=None, ua=UA):
+              time.sleep(1.5)
+              headers = {"User-Agent": ua}
+              if data is not None:
+                  data = urllib.parse.urlencode(data).encode()
+                  headers["Content-Type"] = "application/x-www-form-urlencoded"
+              req = urllib.request.Request(B + path, data=data, headers=headers)
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  raw = r.read()
+              try:
+                  return raw.decode("utf-8")
+              except UnicodeDecodeError:
+                  return raw.decode("cp1252", errors="replace")
+
+          def save(name, txt):
+              open("datos/raw/" + name + ".html", "w", encoding="utf-8").write(txt)
+
+          def hidden(txt):
+              return {m.group(1): html.unescape(m.group(2)) for m in re.finditer(r'<input type="hidden" name="([^"]+)"[^>]*value="([^"]*)"', txt)}
+
+          def elegido(txt, nombre):
+              m = re.search(r'<select name="%s".*?</select>' % re.escape(nombre), txt, re.S)
+              if not m:
+                  return None
+              s = re.search(r'<option selected="selected" value="([^"]*)"', m.group(0)) or re.search(r'<option[^>]*value="([^"]*)"', m.group(0))
+              return s.group(1) if s else None
+
+          def en_clasificacion(txt):
+              i = txt.find('id="clasificacionDataGrid"')
+              return i >= 0 and "BARBASTRO" in txt[i:txt.find("</table>", i)].upper()
+
+          def cambiar_grupo(pagina, a, c, g, con_target):
+              path = "%s.aspx?a=%d&c=%s&med=0" % (pagina, a, c)
+              base = fetch(path)
+              f = hidden(base)
+              f["controlNavegacion:categoriasDropDownList"] = elegido(base, "controlNavegacion:categoriasDropDownList")
+              f["controlNavegacion:temporadasDropDownList"] = elegido(base, "controlNavegacion:temporadasDropDownList")
+              f["gruposDropDownList"] = g
+              if "jornadasDropDownList" in base:
+                  f["jornadasDropDownList"] = elegido(base, "jornadasDropDownList")
+              if con_target:
+                  f["__EVENTTARGET"] = "gruposDropDownList"
+                  f["__EVENTARGUMENT"] = ""
+              return fetch(path, data=f)
+
+          # 1) Segunda Aragonesa Masculina: el club juega en el grupo 03 (90096), que no es el que sale por defecto
+          for variante, con_target in (("con-target", True), ("sin-target", False)):
+              for pagina in ("Resultados", "Calendarios"):
+                  try:
+                      t = cambiar_grupo(pagina, 3, "24077", "90096", con_target)
+                      save("post-%s-24077-%s" % (pagina.lower(), variante), t)
+                      out.append("POST %s %s: grupo elegido=%s, club en clasificacion=%s, tamaño=%d" % (pagina, variante, elegido(t, "gruposDropDownList"), en_clasificacion(t), len(t)))
+                  except Exception as e:
+                      out.append("FALLO POST %s %s: %s" % (pagina, variante, e))
+
+          # 2) Página de rachas de un equipo
+          try:
+              t = fetch("Rachas.aspx?c=24078&g=90107&i=1017428&a=3&med=0")
+              save("rachas-24078-1017428", t)
+              out.append("Rachas OK tamaño=%d" % len(t))
+          except Exception as e:
+              out.append("FALLO Rachas: %s" % e)
+
+          # 3) La misma página pidiéndola como un navegador normal
+          try:
+              t = fetch("Resultados.aspx?a=3&c=24077&med=0", ua=BROWSER)
+              save("navegador-resultados-24077", t)
+              out.append("Navegador: onchange presente=%s, doPostBack presente=%s" % ("onchange" in t, "__doPostBack" in t))
+          except Exception as e:
+              out.append("FALLO navegador: %s" % e)
+
+          open("datos/resumen4.txt", "w", encoding="utf-8").write("\n".join(out))
+          print("\n".join(out))
+          PY
+      - name: Guardar
+        run: |
+          git config user.name "ubb-bot"
+          git config user.email "ubb-bot@users.noreply.github.com"
+          git add datos
+          git commit -m "Diagnóstico 4: cambio de grupo" || echo "sin cambios"
+          git push
