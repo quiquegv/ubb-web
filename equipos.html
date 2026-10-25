@@ -41,10 +41,11 @@
     <img class="badge" src="assets/logo-tercera-feb.png" alt="Logo Tercera FEB">
     <div>
       <h3>Resultados, calendario y clasificación</h3>
-      <p>Consulta la ficha oficial del equipo en la Federación Española de Baloncesto (FEB).</p>
+      <p>Consulta la clasificación y los últimos resultados, o la ficha oficial del equipo en la Federación Española de Baloncesto (FEB).</p>
     </div>
     <div class="card-actions">
-      <a class="link-btn" href="https://www.feb.es/competiciones/equipo/1008693" target="_blank" rel="noopener">Ver en FEB ↗</a>
+      <button class="link-btn" type="button" data-resultados="primer-equipo" hidden>Ver clasificación</button>
+      <a class="link-btn ghost" href="https://www.feb.es/competiciones/equipo/1008693" target="_blank" rel="noopener">Ver en FEB ↗</a>
     </div>
   </div>
 </div>
@@ -57,11 +58,11 @@
   <div class="team-rows">
     <div class="team-row">
       <div><h3>Senior masculino</h3><p>Segunda Aragonesa</p></div>
-      <span class="pending-tag">Próximamente</span>
+      <span data-equipo="senior-masculino" class="pending-tag">Próximamente</span>
     </div>
     <div class="team-row">
-      <div><h3>Senior femenino</h3><p>Competición FAB</p></div>
-      <span class="pending-tag">Próximamente</span>
+      <div><h3>Senior femenino</h3><p>Tercera Aragonesa</p></div>
+      <span data-equipo="senior-femenino" class="pending-tag">Próximamente</span>
     </div>
   </div>
 </div>
@@ -78,7 +79,7 @@
       <div class="team-body">
         <h3>Junior</h3>
         <ul class="team-lines">
-          <li>Masculino <span class="pending-tag">Próximamente</span></li>
+          <li>Masculino <span data-equipo="junior-masculino" class="pending-tag">Próximamente</span></li>
           <li>Femenino <span class="pending-tag">Próximamente</span></li>
         </ul>
       </div>
@@ -89,8 +90,8 @@
       <div class="team-body">
         <h3>Cadete</h3>
         <ul class="team-lines">
-          <li>Masculino <span class="pending-tag">Próximamente</span></li>
-          <li>Femenino <span class="pending-tag">Próximamente</span></li>
+          <li>Masculino <span data-equipo="cadete-masculino" class="pending-tag">Próximamente</span></li>
+          <li>Femenino <span data-equipo="cadete-femenino" class="pending-tag">Próximamente</span></li>
         </ul>
       </div>
     </article>
@@ -100,7 +101,7 @@
       <div class="team-body">
         <h3>Infantil</h3>
         <ul class="team-lines">
-          <li>Masculino <span class="pending-tag">Próximamente</span></li>
+          <li>Masculino <span data-equipo="infantil-masculino" class="pending-tag">Próximamente</span></li>
           <li>Femenino <span class="pending-tag">Próximamente</span></li>
         </ul>
       </div>
@@ -163,6 +164,14 @@
   </div>
 </div>
 </section>
+
+<dialog class="modal" id="resultados" aria-labelledby="resultados-titulo">
+  <div class="modal-head">
+    <div><h3 id="resultados-titulo">Resultados</h3><p class="modal-sub" id="resultados-sub"></p></div>
+    <button class="modal-close" type="button" aria-label="Cerrar" data-modal-close>×</button>
+  </div>
+  <div class="modal-body" id="resultados-body"></div>
+</dialog>
 
 </main>
 
