@@ -1,0 +1,30 @@
+name: Diagnóstico webs de resultados
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar páginas
+        run: |
+          mkdir -p datos/raw
+          UA="UBB-web/1.0 (+https://github.com/quiquegv/ubb-web)"
+          get() { curl -sSL -m 60 -A "$UA" "$2" -o "datos/raw/$1.html" || echo "FALLO $1"; sleep 2; }
+          B="https://competiciones.feb.es/autonomicas"
+          get huesca-inicio        "$B/Resultados.aspx?a=30"
+          get zaragoza-inicio      "$B/?a=32"
+          get huesca-equipos       "$B/Equipos.aspx?a=30&c=24099&med=0"
+          get huesca-calendario    "$B/Calendarios.aspx?a=30&c=24099&med=0"
+          get huesca-clasificacion "$B/Resultados.aspx?a=30&c=24099&med=0"
+          get fab-calendario       "$B/Calendarios.aspx?a=3&c=24339&med=0"
+          get fab-clasificacion    "$B/Resultados.aspx?a=3&c=24339&med=0"
+          ls -la datos/raw
+      - name: Guardar
+        run: |
+          git config user.name "ubb-bot"
+          git config user.email "ubb-bot@users.noreply.github.com"
+          git add datos
+          git commit -m "Diagnóstico: páginas descargadas" || echo "sin cambios"
+          git push
