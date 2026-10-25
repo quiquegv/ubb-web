@@ -182,6 +182,13 @@ dialog.roster::backdrop{background:rgba(20,22,24,0.65);}
 .soon{background:var(--white);border:1px solid rgba(0,0,0,0.06);border-radius:2px;padding:48px 32px;text-align:center;}
 .soon p{margin:0 auto 20px;}
 
+/* ---------- TEXTOS LEGALES ---------- */
+.legal h2{font-size:1.15rem;margin:36px 0 10px;}
+.legal h2:first-child{margin-top:0;}
+.legal ul{margin:8px 0 0 20px;color:var(--carbon-soft);max-width:720px;}
+.legal li{margin-top:6px;}
+.legal a{color:var(--red-dark);font-weight:600;border-bottom:1px solid currentColor;}
+
 /* ---------- CTA ---------- */
 .cta-band{background:linear-gradient(160deg,var(--red) 0%,var(--red-dark) 100%);color:var(--white);text-align:center;padding:64px 24px;border-radius:2px;}
 .cta-band h2{color:var(--white);}
