@@ -1,0 +1,69 @@
+name: Diagnóstico 2 - buscar equipos del club
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar equipos del club y descargar sus páginas
+        run: |
+          python3 - <<'PY'
+          import re, time, html, os, urllib.request
+          UA = "UBB-web/1.0 (+https://github.com/quiquegv/ubb-web)"
+          B = "https://competiciones.feb.es/autonomicas/"
+          os.makedirs("datos/raw", exist_ok=True)
+
+          def get(path):
+              time.sleep(1.5)
+              req = urllib.request.Request(B + path, headers={"User-Agent": UA})
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  return r.read().decode("windows-1252", errors="replace")
+
+          def save(name, txt):
+              open("datos/raw/" + name + ".html", "w", encoding="utf-8").write(txt)
+
+          out, found = [], []
+          for a, nombre in [(30, "huesca"), (32, "zaragoza"), (3, "fab")]:
+              try:
+                  ini = get("Resultados.aspx?a=%d" % a)
+              except Exception as e:
+                  out.append("FALLO inicio %s: %s" % (nombre, e))
+                  continue
+              sel = re.search(r'<select name="controlNavegacion:categoriasDropDownList".*?</select>', ini, re.S)
+              cats = re.findall(r'<option[^>]*value="(\d+)">(.*?)</option>', sel.group(0), re.S) if sel else []
+              out.append("%s: %d categorias" % (nombre, len(cats)))
+              for c, t in cats:
+                  t = html.unescape(t).strip()
+                  try:
+                      eq = get("Equipos.aspx?a=%d&c=%s&med=0" % (a, c))
+                  except Exception as e:
+                      out.append("  FALLO equipos %s %s: %s" % (c, t, e))
+                      continue
+                  if "BARBASTRO" in eq.upper():
+                      save("equipos-%d-%s" % (a, c), eq)
+                      found.append((a, c, t))
+                      lines = sorted(set(re.findall(r'[^<>\n]*BARBASTRO[^<>\n]*', eq, re.I)))
+                      out.append("  SI  %s %s -> %s" % (c, t, " | ".join(l.strip() for l in lines)))
+                  else:
+                      out.append("  no  %s %s" % (c, t))
+
+          extra = [(3, "23475", "Tercera FEB"), (3, "23474", "Segunda FEB")]
+          for a, c, t in found + extra:
+              for pag, pref in [("Resultados", "resultados"), ("Calendarios", "calendario")]:
+                  try:
+                      save("%s-%d-%s" % (pref, a, c), get("%s.aspx?a=%d&c=%s&med=0" % (pag, a, c)))
+                  except Exception as e:
+                      out.append("FALLO %s %s: %s" % (pag, c, e))
+
+          open("datos/resumen.txt", "w", encoding="utf-8").write("\n".join(out))
+          print("\n".join(out))
+          PY
+      - name: Guardar
+        run: |
+          git config user.name "ubb-bot"
+          git config user.email "ubb-bot@users.noreply.github.com"
+          git add datos
+          git commit -m "Diagnóstico 2: equipos del club" || echo "sin cambios"
+          git push
