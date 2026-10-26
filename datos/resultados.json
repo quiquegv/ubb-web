@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-25T23:28:35Z",
- "huella": "7e97ecb3925c301c450bf2d40b89f981bf01407f475f06ca200be9fa8ecd5fad",
+ "actualizado": "2026-10-26T13:41:50Z",
+ "huella": "9636aa2af2716ff509578560e41d6df9bf08680885028c6a516c1d9bec9d7ddf",
  "equipos": {
   "primer-equipo": {
    "competicion": "2026/2027 TERCERA FEB",
@@ -735,10 +735,10 @@
       "texto": "DOCTOR AZUA - MOLIERE-INTEGRATED ENGINEERING SERVICES",
       "local": "DOCTOR AZUA",
       "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-      "resultado": null,
+      "resultado": "27-36",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "DOCTOR AZUA. PEDRO III EL GRANDE, 4 (Zaragoza)"
+      "campo": null
      },
      {
       "texto": "BASKET LUPUS JMC - WIYOB BARBASTRO",
@@ -817,7 +817,7 @@
      "pj": 2,
      "pg": 2,
      "pp": 0,
-     "pf": 117,
+     "pf": 119,
      "pc": 55,
      "pts": 4,
      "dif": "+2"
@@ -879,6 +879,28 @@
     },
     {
      "pos": 7,
+     "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 62,
+     "pc": 86,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 8,
+     "equipo": "DOCTOR AZUA",
+     "pj": 2,
+     "pg": 0,
+     "pp": 2,
+     "pf": 71,
+     "pc": 98,
+     "pts": 2,
+     "dif": "-2"
+    },
+    {
+     "pos": 9,
      "equipo": "BASKET LUPUS JMC",
      "pj": 2,
      "pg": 0,
@@ -889,7 +911,7 @@
      "dif": "-2"
     },
     {
-     "pos": 8,
+     "pos": 10,
      "equipo": "BASKET ARAGON",
      "pj": 2,
      "pg": 0,
@@ -898,28 +920,6 @@
      "pc": 139,
      "pts": 2,
      "dif": "-2"
-    },
-    {
-     "pos": 9,
-     "equipo": "DOCTOR AZUA",
-     "pj": 1,
-     "pg": 0,
-     "pp": 1,
-     "pf": 44,
-     "pc": 62,
-     "pts": 1,
-     "dif": "-1"
-    },
-    {
-     "pos": 10,
-     "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-     "pj": 1,
-     "pg": 0,
-     "pp": 1,
-     "pf": 26,
-     "pc": 57,
-     "pts": 1,
-     "dif": "-1"
     }
    ],
    "club": "BARBASTRO",
@@ -935,7 +935,7 @@
       "texto": "VISALIA CBF HUESCA - C.D.E. SANTA ANA BINACED",
       "local": "VISALIA CBF HUESCA",
       "visitante": "C.D.E. SANTA ANA BINACED",
-      "resultado": null,
+      "resultado": "65-27",
       "fecha": "24/10/2026",
       "hora": null,
       "campo": null
@@ -944,28 +944,28 @@
       "texto": "C.B. GRAUS - WIYOB BARBASTRO",
       "local": "C.B. GRAUS",
       "visitante": "WIYOB BARBASTRO",
-      "resultado": null,
+      "resultado": "38-37",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "PAB. MUNICIPAL. BENABARRE, S/N (Graus)"
+      "campo": null
      },
      {
       "texto": "C. DENTAL FRANCISCA VIZCARRA JACA - PEÑA LA MURGA SABIÑÁNIGO",
       "local": "C. DENTAL FRANCISCA VIZCARRA JACA",
       "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
-      "resultado": null,
+      "resultado": "58-28",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "POLIDEPORTIVO MONTE OROEL. CALLE ESTACION, C/Nº (Jaca)"
+      "campo": null
      },
      {
       "texto": "STAR CBF HUESCA - C.B. MONZÓN",
       "local": "STAR CBF HUESCA",
       "visitante": "C.B. MONZÓN",
-      "resultado": null,
+      "resultado": "9-84",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "PAB. ALCORAZ. DOCTOR ARTERO, 14 (Huesca)"
+      "campo": null
      }
     ]
    },
@@ -1010,7 +1010,107 @@
      }
     ]
    },
-   "clasificacion": [],
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "C.B. MONZÓN",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 84,
+     "pc": 9,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 2,
+     "equipo": "VISALIA CBF HUESCA",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 65,
+     "pc": 27,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 3,
+     "equipo": "C. DENTAL FRANCISCA VIZCARRA JACA",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 58,
+     "pc": 28,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 4,
+     "equipo": "C.B. GRAUS",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 38,
+     "pc": 37,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 5,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 37,
+     "pc": 38,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 6,
+     "equipo": "PEÑA LA MURGA SABIÑÁNIGO",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 28,
+     "pc": 58,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 7,
+     "equipo": "C.D.E. SANTA ANA BINACED",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 27,
+     "pc": 65,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 8,
+     "equipo": "STAR CBF HUESCA",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 9,
+     "pc": 84,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 10,
+     "equipo": "CB PEÑAS",
+     "pj": 0,
+     "pg": 0,
+     "pp": 0,
+     "pf": 0,
+     "pc": 0,
+     "pts": 0,
+     "dif": "0"
+    }
+   ],
    "club": "BARBASTRO",
    "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=30&c=24099&med=0"
   },
@@ -1024,28 +1124,28 @@
       "texto": "C.B. GRAUS - WIYOB BARBASTRO",
       "local": "C.B. GRAUS",
       "visitante": "WIYOB BARBASTRO",
-      "resultado": null,
+      "resultado": "100-51",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "PAB. GRAUS. CTRA. BENABARRE, S/N (Graus)"
+      "campo": null
      },
      {
       "texto": "CARNICERIA UBIETO JACA - PEÑA LA MURGA SABIÑÁNIGO",
       "local": "CARNICERIA UBIETO JACA",
       "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
-      "resultado": null,
+      "resultado": "30-32",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "POLIDEPORTIVO MONTE OROEL. CALLE ESTACION, S/Nº (Jaca)"
+      "campo": null
      },
      {
       "texto": "NEUMÁTICOS BARA BOSCOS - EID SOBRARBE",
       "local": "NEUMÁTICOS BARA BOSCOS",
       "visitante": "EID SOBRARBE",
-      "resultado": null,
+      "resultado": "62-17",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "DON BOSCO. AVDA. MONREAL, 14 (Huesca)"
+      "campo": null
      },
      {
       "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - C.B. PEÑAS A",
@@ -1099,7 +1199,107 @@
      }
     ]
    },
-   "clasificacion": [],
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "C.B. GRAUS",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 100,
+     "pc": 51,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 2,
+     "equipo": "NEUMÁTICOS BARA BOSCOS",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 62,
+     "pc": 17,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 3,
+     "equipo": "PEÑA LA MURGA SABIÑÁNIGO",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 32,
+     "pc": 30,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 4,
+     "equipo": "CARNICERIA UBIETO JACA",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 30,
+     "pc": 32,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 5,
+     "equipo": "EID SOBRARBE",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 17,
+     "pc": 62,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 6,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 51,
+     "pc": 100,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 8,
+     "equipo": "C.B. PEÑAS A",
+     "pj": 0,
+     "pg": 0,
+     "pp": 0,
+     "pf": 0,
+     "pc": 0,
+     "pts": 0,
+     "dif": "0"
+    },
+    {
+     "pos": 9,
+     "equipo": "C.B. PEÑAS B",
+     "pj": 0,
+     "pg": 0,
+     "pp": 0,
+     "pf": 0,
+     "pc": 0,
+     "pts": 0,
+     "dif": "0"
+    },
+    {
+     "pos": 10,
+     "equipo": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+     "pj": 0,
+     "pg": 0,
+     "pp": 0,
+     "pf": 0,
+     "pc": 0,
+     "pts": 0,
+     "dif": "0"
+    }
+   ],
    "club": "BARBASTRO",
    "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=30&c=24240&med=0"
   },
@@ -1113,25 +1313,25 @@
       "texto": "C.B. GRAUS - C.B. MONZÓN AMARILLO",
       "local": "C.B. GRAUS",
       "visitante": "C.B. MONZÓN AMARILLO",
-      "resultado": null,
+      "resultado": "36-31",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "PAB. GRAUS. CTRA. BENASQUE S/NÚM (Graus)"
+      "campo": null
      },
      {
       "texto": "WIYOB BARBASTRO - C.B. MONZÓN NEGRO",
       "local": "WIYOB BARBASTRO",
       "visitante": "C.B. MONZÓN NEGRO",
-      "resultado": null,
+      "resultado": "75-31",
       "fecha": "24/10/2026",
       "hora": null,
-      "campo": "Pabellón Angel Orús. C/Obispo Abad y Lasierra, s/núm (Barbastro)"
+      "campo": null
      },
      {
       "texto": "IES RAMON Y CAJAL HUESCA - SUPERMERCADOS ALTOARAGÓN BOSCOS",
       "local": "IES RAMON Y CAJAL HUESCA",
       "visitante": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
-      "resultado": null,
+      "resultado": "51-21",
       "fecha": "24/10/2026",
       "hora": null,
       "campo": null
@@ -1170,7 +1370,74 @@
      }
     ]
    },
-   "clasificacion": [],
+   "clasificacion": [
+    {
+     "pos": 1,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 75,
+     "pc": 31,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 2,
+     "equipo": "IES RAMON Y CAJAL HUESCA",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 51,
+     "pc": 21,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 3,
+     "equipo": "C.B. GRAUS",
+     "pj": 1,
+     "pg": 1,
+     "pp": 0,
+     "pf": 36,
+     "pc": 31,
+     "pts": 2,
+     "dif": "+1"
+    },
+    {
+     "pos": 4,
+     "equipo": "C.B. MONZÓN AMARILLO",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 31,
+     "pc": 36,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 5,
+     "equipo": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 21,
+     "pc": 51,
+     "pts": 1,
+     "dif": "-1"
+    },
+    {
+     "pos": 6,
+     "equipo": "C.B. MONZÓN NEGRO",
+     "pj": 1,
+     "pg": 0,
+     "pp": 1,
+     "pf": 31,
+     "pc": 75,
+     "pts": 1,
+     "dif": "-1"
+    }
+   ],
    "club": "BARBASTRO",
    "url": "https://competiciones.feb.es/autonomicas/Resultados.aspx?a=30&c=24242&med=0"
   }
