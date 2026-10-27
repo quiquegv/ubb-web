@@ -1,3 +1,9 @@
+@font-face{font-family:'Anton';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/anton-latin-400-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/work-sans-latin-400-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:500;font-display:swap;src:url(assets/fonts/work-sans-latin-500-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:600;font-display:swap;src:url(assets/fonts/work-sans-latin-600-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:700;font-display:swap;src:url(assets/fonts/work-sans-latin-700-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:800;font-display:swap;src:url(assets/fonts/work-sans-latin-800-normal.woff2) format('woff2');}
 :root{
   --red:#EC3A3C;--red-dark:#B92A2C;--carbon:#262B2F;--carbon-soft:#565F66;
   --bg:#F5F4F2;--white:#FFFFFF;--joven:#2F6FED;--oro:#E8A33D;
