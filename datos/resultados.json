@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-31T21:48:21Z",
- "huella": "6cf63a7c8a1482ce6ecebb57a0d1daa3fae03d2370a8dfc734fe2c9094756135",
+ "actualizado": "2026-11-01T22:16:23Z",
+ "huella": "e2681752a04bd8ab69dbf33702935821f8cd4f67034a1ea49b71f0af2779b84c",
  "equipos": {
   "primer-equipo": {
    "competicion": "2026/2027 TERCERA FEB",
@@ -21,10 +21,10 @@
       "texto": "SA TINTINA CB ES CASTELL MENORCA - LETRA CORPOREA BARBASTRO",
       "local": "SA TINTINA CB ES CASTELL MENORCA",
       "visitante": "LETRA CORPOREA BARBASTRO",
-      "resultado": null,
+      "resultado": "99-76",
       "fecha": "01/11/2026",
       "hora": "12:30",
-      "campo": "PAVELLO ESPORTIU MUNICIPAL SERGIO LLULL. CAMI DE S'ESCOLA S/N (Castell, Es)"
+      "campo": null
      },
      {
       "texto": "MONBUS - CB IGUALADA - CB NAVÀS VISCOLA",
@@ -66,10 +66,10 @@
       "texto": "OCA GLOBAL C.B. SALOU - SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
       "local": "OCA GLOBAL C.B. SALOU",
       "visitante": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
-      "resultado": null,
+      "resultado": "82-50",
       "fecha": "01/11/2026",
       "hora": "12:30",
-      "campo": "Pabellón Centre Salou. Calle Milá, n°3 (Salou)"
+      "campo": null
      }
     ]
    },
@@ -145,13 +145,13 @@
     {
      "pos": 1,
      "equipo": "OCA GLOBAL C.B. SALOU",
-     "pj": 4,
-     "pg": 4,
+     "pj": 5,
+     "pg": 5,
      "pp": 0,
-     "pf": 355,
-     "pc": 249,
-     "pts": 8,
-     "dif": "+4"
+     "pf": 437,
+     "pc": 299,
+     "pts": 10,
+     "dif": "+5"
     },
     {
      "pos": 2,
@@ -177,6 +177,17 @@
     },
     {
      "pos": 4,
+     "equipo": "SA TINTINA CB ES CASTELL MENORCA",
+     "pj": 5,
+     "pg": 3,
+     "pp": 2,
+     "pf": 465,
+     "pc": 421,
+     "pts": 8,
+     "dif": "+1"
+    },
+    {
+     "pos": 5,
      "equipo": "PUJOL MOLLERUSSA",
      "pj": 5,
      "pg": 3,
@@ -187,29 +198,7 @@
      "dif": "-1"
     },
     {
-     "pos": 5,
-     "equipo": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
-     "pj": 3,
-     "pg": 2,
-     "pp": 1,
-     "pf": 214,
-     "pc": 206,
-     "pts": 5,
-     "dif": "+1"
-    },
-    {
      "pos": 6,
-     "equipo": "SA TINTINA CB ES CASTELL MENORCA",
-     "pj": 4,
-     "pg": 2,
-     "pp": 2,
-     "pf": 366,
-     "pc": 345,
-     "pts": 6,
-     "dif": "-1"
-    },
-    {
-     "pos": 7,
      "equipo": "SANDÁ C.B. L´HOSPITALET",
      "pj": 4,
      "pg": 2,
@@ -220,7 +209,7 @@
      "dif": "-1"
     },
     {
-     "pos": 8,
+     "pos": 7,
      "equipo": "MONBUS - CB IGUALADA",
      "pj": 4,
      "pg": 2,
@@ -229,6 +218,17 @@
      "pc": 297,
      "pts": 6,
      "dif": "-2"
+    },
+    {
+     "pos": 8,
+     "equipo": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
+     "pj": 4,
+     "pg": 2,
+     "pp": 2,
+     "pf": 264,
+     "pc": 288,
+     "pts": 6,
+     "dif": "-1"
     },
     {
      "pos": 9,
@@ -254,17 +254,6 @@
     },
     {
      "pos": 11,
-     "equipo": "LETRA CORPOREA BARBASTRO",
-     "pj": 3,
-     "pg": 1,
-     "pp": 2,
-     "pf": 227,
-     "pc": 249,
-     "pts": 4,
-     "dif": "+1"
-    },
-    {
-     "pos": 12,
      "equipo": "LA PARRÓQUIA - BÁSQUET SAMÁ",
      "pj": 4,
      "pg": 1,
@@ -273,6 +262,17 @@
      "pc": 315,
      "pts": 5,
      "dif": "+1"
+    },
+    {
+     "pos": 12,
+     "equipo": "LETRA CORPOREA BARBASTRO",
+     "pj": 4,
+     "pg": 1,
+     "pp": 3,
+     "pf": 303,
+     "pc": 348,
+     "pts": 5,
+     "dif": "-1"
     },
     {
      "pos": 13,
