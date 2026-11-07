@@ -1,80 +1,12 @@
 {
- "actualizado": "2026-11-01T22:16:23Z",
- "huella": "e2681752a04bd8ab69dbf33702935821f8cd4f67034a1ea49b71f0af2779b84c",
+ "actualizado": "2026-11-07T22:13:22Z",
+ "huella": "ea7c38711dddc771d982e48a4629326300022124efe81409adbab175559354bf",
  "equipos": {
   "primer-equipo": {
    "competicion": "2026/2027 TERCERA FEB",
    "grupo": "Liga Regular \"C-B\"",
    "jornada": {
-    "titulo": "Jornada 5 01/11/2026",
-    "partidos": [
-     {
-      "texto": "CB ARTÉS - LA PARRÓQUIA - BÁSQUET SAMÁ",
-      "local": "CB ARTÉS",
-      "visitante": "LA PARRÓQUIA - BÁSQUET SAMÁ",
-      "resultado": "60-79",
-      "fecha": "31/10/2026",
-      "hora": "18:15",
-      "campo": null
-     },
-     {
-      "texto": "SA TINTINA CB ES CASTELL MENORCA - LETRA CORPOREA BARBASTRO",
-      "local": "SA TINTINA CB ES CASTELL MENORCA",
-      "visitante": "LETRA CORPOREA BARBASTRO",
-      "resultado": "99-76",
-      "fecha": "01/11/2026",
-      "hora": "12:30",
-      "campo": null
-     },
-     {
-      "texto": "MONBUS - CB IGUALADA - CB NAVÀS VISCOLA",
-      "local": "MONBUS - CB IGUALADA",
-      "visitante": "CB NAVÀS VISCOLA",
-      "resultado": "76-79",
-      "fecha": "31/10/2026",
-      "hora": "18:30",
-      "campo": null
-     },
-     {
-      "texto": "C.B.VALLS.TALLERS PABLO MARTÍNEZ - PUJOL MOLLERUSSA",
-      "local": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
-      "visitante": "PUJOL MOLLERUSSA",
-      "resultado": "92-88",
-      "fecha": "31/10/2026",
-      "hora": "19:00",
-      "campo": null
-     },
-     {
-      "texto": "SD ESPANYOL BÀSQUET CORNELLÀ - SANDÁ C.B. L´HOSPITALET",
-      "local": "SD ESPANYOL BÀSQUET CORNELLÀ",
-      "visitante": "SANDÁ C.B. L´HOSPITALET",
-      "resultado": "97-76",
-      "fecha": "31/10/2026",
-      "hora": "19:00",
-      "campo": null
-     },
-     {
-      "texto": "FUNDACION GRUPO JORGE BALONCESTO ZUERA - C.B.ROSER",
-      "local": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
-      "visitante": "C.B.ROSER",
-      "resultado": "101-95",
-      "fecha": "31/10/2026",
-      "hora": "18:00",
-      "campo": null
-     },
-     {
-      "texto": "OCA GLOBAL C.B. SALOU - SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
-      "local": "OCA GLOBAL C.B. SALOU",
-      "visitante": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
-      "resultado": "82-50",
-      "fecha": "01/11/2026",
-      "hora": "12:30",
-      "campo": null
-     }
-    ]
-   },
-   "proxima": {
-    "titulo": "Próxima Jornada 6 08/11/2026",
+    "titulo": "Jornada 6 08/11/2026",
     "partidos": [
      {
       "texto": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT - CB ARTÉS",
@@ -89,46 +21,46 @@
       "texto": "C.B.ROSER - OCA GLOBAL C.B. SALOU",
       "local": "C.B.ROSER",
       "visitante": "OCA GLOBAL C.B. SALOU",
-      "resultado": null,
+      "resultado": "61-87",
       "fecha": "07/11/2026",
       "hora": "20:15",
-      "campo": "CENTRE ESPORTIU MUNICIPAL ESTACIO DEL NORD. C/ Napols 42 (Barcelona)"
+      "campo": null
      },
      {
       "texto": "SANDÁ C.B. L´HOSPITALET - FUNDACION GRUPO JORGE BALONCESTO ZUERA",
       "local": "SANDÁ C.B. L´HOSPITALET",
       "visitante": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
-      "resultado": null,
+      "resultado": "84-53",
       "fecha": "07/11/2026",
       "hora": "18:15",
-      "campo": "NOU PAVELLO DEL CENTRE. RIERA ESCORXADOR, 15 (Hospitalet de Llobregat, L')"
+      "campo": null
      },
      {
       "texto": "PUJOL MOLLERUSSA - SD ESPANYOL BÀSQUET CORNELLÀ",
       "local": "PUJOL MOLLERUSSA",
       "visitante": "SD ESPANYOL BÀSQUET CORNELLÀ",
-      "resultado": null,
+      "resultado": "81-76",
       "fecha": "07/11/2026",
       "hora": "19:15",
-      "campo": "PAVELLO MUNICIPAL DE MOLLERUSSA. C/ TARRAGONA, 15 (Mollerussa)"
+      "campo": null
      },
      {
       "texto": "CB NAVÀS VISCOLA - C.B.VALLS.TALLERS PABLO MARTÍNEZ",
       "local": "CB NAVÀS VISCOLA",
       "visitante": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
-      "resultado": null,
+      "resultado": "75-59",
       "fecha": "07/11/2026",
       "hora": "19:30",
-      "campo": "Pavelló Municipal d'Esports. C/Pau Casals s/n (Navàs)"
+      "campo": null
      },
      {
-      "texto": "LETRA CORPOREA BARBASTRO - MONBUS - CB IGUALADA",
-      "local": "LETRA CORPOREA BARBASTRO",
-      "visitante": "MONBUS - CB IGUALADA",
-      "resultado": null,
+      "texto": "MONBUS - CB IGUALADA - LETRA CORPOREA BARBASTRO",
+      "local": "MONBUS - CB IGUALADA",
+      "visitante": "LETRA CORPOREA BARBASTRO",
+      "resultado": "87-65",
       "fecha": "07/11/2026",
       "hora": "18:30",
-      "campo": "PABELLON ANGEL ORUS. C/ ABAD Y LASIERRA, S/N (Barbastro)"
+      "campo": null
      },
      {
       "texto": "LA PARRÓQUIA - BÁSQUET SAMÁ - SA TINTINA CB ES CASTELL MENORCA",
@@ -141,42 +73,121 @@
      }
     ]
    },
+   "proxima": {
+    "titulo": "Próxima Jornada 7 15/11/2026",
+    "partidos": [
+     {
+      "texto": "CB ARTÉS - SA TINTINA CB ES CASTELL MENORCA",
+      "local": "CB ARTÉS",
+      "visitante": "SA TINTINA CB ES CASTELL MENORCA",
+      "resultado": null,
+      "fecha": "15/11/2026",
+      "hora": "12:15",
+      "campo": "PAVELLO ESPORTIU D'ARTES. BARCELONA, S/N (Artés)"
+     },
+     {
+      "texto": "MONBUS - CB IGUALADA - LA PARRÓQUIA - BÁSQUET SAMÁ",
+      "local": "MONBUS - CB IGUALADA",
+      "visitante": "LA PARRÓQUIA - BÁSQUET SAMÁ",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": "17:30",
+      "campo": "PAVELLO MUNICIPAL DE LES COMES. CARLES RIBA, S/N (Igualada)"
+     },
+     {
+      "texto": "C.B.VALLS.TALLERS PABLO MARTÍNEZ - LETRA CORPOREA BARBASTRO",
+      "local": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
+      "visitante": "LETRA CORPOREA BARBASTRO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": "18:00",
+      "campo": "PABELLÓN JOANA BALLART. C/ VILAR, S/N (Valls)"
+     },
+     {
+      "texto": "SD ESPANYOL BÀSQUET CORNELLÀ - CB NAVÀS VISCOLA",
+      "local": "SD ESPANYOL BÀSQUET CORNELLÀ",
+      "visitante": "CB NAVÀS VISCOLA",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": "19:00",
+      "campo": "PARC ESPORTIU BAIX LLOBREGAT. AV. BAIX LLOBREGAT / SORRAL (Cornellà de Llobregat)"
+     },
+     {
+      "texto": "FUNDACION GRUPO JORGE BALONCESTO ZUERA - PUJOL MOLLERUSSA",
+      "local": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
+      "visitante": "PUJOL MOLLERUSSA",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": "18:00",
+      "campo": "PAB. MUNICIPAL ZUERA. DOS AGUAS, 11 (Zuera)"
+     },
+     {
+      "texto": "OCA GLOBAL C.B. SALOU - SANDÁ C.B. L´HOSPITALET",
+      "local": "OCA GLOBAL C.B. SALOU",
+      "visitante": "SANDÁ C.B. L´HOSPITALET",
+      "resultado": null,
+      "fecha": "15/11/2026",
+      "hora": "17:30",
+      "campo": "Pabellón Centre Salou. Calle Milá, n°3 (Salou)"
+     },
+     {
+      "texto": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT - C.B.ROSER",
+      "local": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
+      "visitante": "C.B.ROSER",
+      "resultado": null,
+      "fecha": "15/11/2026",
+      "hora": "12:00",
+      "campo": "PAVELLÓ MUNICIPAL D'ESPORTS DE CIUTADELLA (PISTA 1. CAMI VELL S/N (Ciutadella de Menorca)"
+     }
+    ]
+   },
    "clasificacion": [
     {
      "pos": 1,
      "equipo": "OCA GLOBAL C.B. SALOU",
-     "pj": 5,
-     "pg": 5,
+     "pj": 6,
+     "pg": 6,
      "pp": 0,
-     "pf": 437,
-     "pc": 299,
-     "pts": 10,
-     "dif": "+5"
+     "pf": 524,
+     "pc": 360,
+     "pts": 12,
+     "dif": "+6"
     },
     {
      "pos": 2,
      "equipo": "CB NAVÀS VISCOLA",
-     "pj": 4,
-     "pg": 4,
+     "pj": 5,
+     "pg": 5,
      "pp": 0,
-     "pf": 327,
-     "pc": 310,
-     "pts": 8,
-     "dif": "+4"
+     "pf": 402,
+     "pc": 369,
+     "pts": 10,
+     "dif": "+5"
     },
     {
      "pos": 3,
-     "equipo": "SD ESPANYOL BÀSQUET CORNELLÀ",
-     "pj": 4,
-     "pg": 3,
-     "pp": 1,
-     "pf": 337,
-     "pc": 284,
-     "pts": 7,
-     "dif": "+3"
+     "equipo": "PUJOL MOLLERUSSA",
+     "pj": 6,
+     "pg": 4,
+     "pp": 2,
+     "pf": 534,
+     "pc": 488,
+     "pts": 10,
+     "dif": "+1"
     },
     {
      "pos": 4,
+     "equipo": "SD ESPANYOL BÀSQUET CORNELLÀ",
+     "pj": 5,
+     "pg": 3,
+     "pp": 2,
+     "pf": 413,
+     "pc": 365,
+     "pts": 8,
+     "dif": "-1"
+    },
+    {
+     "pos": 5,
      "equipo": "SA TINTINA CB ES CASTELL MENORCA",
      "pj": 5,
      "pg": 3,
@@ -187,37 +198,26 @@
      "dif": "+1"
     },
     {
-     "pos": 5,
-     "equipo": "PUJOL MOLLERUSSA",
+     "pos": 6,
+     "equipo": "SANDÁ C.B. L´HOSPITALET",
      "pj": 5,
      "pg": 3,
      "pp": 2,
-     "pf": 453,
-     "pc": 412,
+     "pf": 417,
+     "pc": 376,
      "pts": 8,
-     "dif": "-1"
-    },
-    {
-     "pos": 6,
-     "equipo": "SANDÁ C.B. L´HOSPITALET",
-     "pj": 4,
-     "pg": 2,
-     "pp": 2,
-     "pf": 333,
-     "pc": 323,
-     "pts": 6,
-     "dif": "-1"
+     "dif": "+1"
     },
     {
      "pos": 7,
      "equipo": "MONBUS - CB IGUALADA",
-     "pj": 4,
-     "pg": 2,
+     "pj": 5,
+     "pg": 3,
      "pp": 2,
-     "pf": 291,
-     "pc": 297,
-     "pts": 6,
-     "dif": "-2"
+     "pf": 378,
+     "pc": 362,
+     "pts": 8,
+     "dif": "+1"
     },
     {
      "pos": 8,
@@ -233,24 +233,24 @@
     {
      "pos": 9,
      "equipo": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
-     "pj": 4,
+     "pj": 5,
      "pg": 2,
-     "pp": 2,
-     "pf": 328,
-     "pc": 361,
-     "pts": 6,
-     "dif": "+1"
+     "pp": 3,
+     "pf": 381,
+     "pc": 445,
+     "pts": 7,
+     "dif": "-1"
     },
     {
      "pos": 10,
      "equipo": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
-     "pj": 5,
+     "pj": 6,
      "pg": 2,
-     "pp": 3,
-     "pf": 360,
-     "pc": 416,
-     "pts": 7,
-     "dif": "+1"
+     "pp": 4,
+     "pf": 419,
+     "pc": 491,
+     "pts": 8,
+     "dif": "-1"
     },
     {
      "pos": 11,
@@ -265,17 +265,6 @@
     },
     {
      "pos": 12,
-     "equipo": "LETRA CORPOREA BARBASTRO",
-     "pj": 4,
-     "pg": 1,
-     "pp": 3,
-     "pf": 303,
-     "pc": 348,
-     "pts": 5,
-     "dif": "-1"
-    },
-    {
-     "pos": 13,
      "equipo": "CB ARTÉS",
      "pj": 5,
      "pg": 1,
@@ -286,15 +275,26 @@
      "dif": "-2"
     },
     {
+     "pos": 13,
+     "equipo": "LETRA CORPOREA BARBASTRO",
+     "pj": 5,
+     "pg": 1,
+     "pp": 4,
+     "pf": 368,
+     "pc": 435,
+     "pts": 6,
+     "dif": "-2"
+    },
+    {
      "pos": 14,
      "equipo": "C.B.ROSER",
-     "pj": 5,
+     "pj": 6,
      "pg": 0,
-     "pp": 5,
-     "pf": 368,
-     "pc": 450,
-     "pts": 5,
-     "dif": "-5"
+     "pp": 6,
+     "pf": 429,
+     "pc": 537,
+     "pts": 6,
+     "dif": "-6"
     }
    ],
    "club": "BARBASTRO",
