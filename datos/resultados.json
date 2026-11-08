@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-07T22:13:22Z",
- "huella": "ea7c38711dddc771d982e48a4629326300022124efe81409adbab175559354bf",
+ "actualizado": "2026-11-08T22:22:33Z",
+ "huella": "e3c0cc58fb134106a8a86e296bf1cd6193a6430f0e7544da17c2488902ce31a1",
  "equipos": {
   "primer-equipo": {
    "competicion": "2026/2027 TERCERA FEB",
@@ -12,10 +12,10 @@
       "texto": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT - CB ARTÉS",
       "local": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
       "visitante": "CB ARTÉS",
-      "resultado": null,
+      "resultado": "107-68",
       "fecha": "08/11/2026",
       "hora": "12:00",
-      "campo": "PAVELLÓ MUNICIPAL D'ESPORTS DE CIUTADELLA (PISTA 1. CAMI VELL S/N (Ciutadella de Menorca)"
+      "campo": null
      },
      {
       "texto": "C.B.ROSER - OCA GLOBAL C.B. SALOU",
@@ -66,10 +66,10 @@
       "texto": "LA PARRÓQUIA - BÁSQUET SAMÁ - SA TINTINA CB ES CASTELL MENORCA",
       "local": "LA PARRÓQUIA - BÁSQUET SAMÁ",
       "visitante": "SA TINTINA CB ES CASTELL MENORCA",
-      "resultado": null,
+      "resultado": "84-82",
       "fecha": "08/11/2026",
       "hora": "12:30",
-      "campo": "C.E.M. ISAAC GALVEZ. RONDA IBERICA, 66 (Vilanova i la Geltrú)"
+      "campo": null
      }
     ]
    },
@@ -188,17 +188,6 @@
     },
     {
      "pos": 5,
-     "equipo": "SA TINTINA CB ES CASTELL MENORCA",
-     "pj": 5,
-     "pg": 3,
-     "pp": 2,
-     "pf": 465,
-     "pc": 421,
-     "pts": 8,
-     "dif": "+1"
-    },
-    {
-     "pos": 6,
      "equipo": "SANDÁ C.B. L´HOSPITALET",
      "pj": 5,
      "pg": 3,
@@ -209,7 +198,7 @@
      "dif": "+1"
     },
     {
-     "pos": 7,
+     "pos": 6,
      "equipo": "MONBUS - CB IGUALADA",
      "pj": 5,
      "pg": 3,
@@ -220,18 +209,40 @@
      "dif": "+1"
     },
     {
-     "pos": 8,
+     "pos": 7,
      "equipo": "SUPERMERCADOS DISKONT - CB CIUTADELLA PONENT",
-     "pj": 4,
-     "pg": 2,
+     "pj": 5,
+     "pg": 3,
      "pp": 2,
-     "pf": 264,
-     "pc": 288,
-     "pts": 6,
+     "pf": 371,
+     "pc": 356,
+     "pts": 8,
+     "dif": "+1"
+    },
+    {
+     "pos": 8,
+     "equipo": "SA TINTINA CB ES CASTELL MENORCA",
+     "pj": 6,
+     "pg": 3,
+     "pp": 3,
+     "pf": 547,
+     "pc": 505,
+     "pts": 9,
      "dif": "-1"
     },
     {
      "pos": 9,
+     "equipo": "LA PARRÓQUIA - BÁSQUET SAMÁ",
+     "pj": 5,
+     "pg": 2,
+     "pp": 3,
+     "pf": 392,
+     "pc": 397,
+     "pts": 7,
+     "dif": "+2"
+    },
+    {
+     "pos": 10,
      "equipo": "FUNDACION GRUPO JORGE BALONCESTO ZUERA",
      "pj": 5,
      "pg": 2,
@@ -242,7 +253,7 @@
      "dif": "-1"
     },
     {
-     "pos": 10,
+     "pos": 11,
      "equipo": "C.B.VALLS.TALLERS PABLO MARTÍNEZ",
      "pj": 6,
      "pg": 2,
@@ -253,29 +264,7 @@
      "dif": "-1"
     },
     {
-     "pos": 11,
-     "equipo": "LA PARRÓQUIA - BÁSQUET SAMÁ",
-     "pj": 4,
-     "pg": 1,
-     "pp": 3,
-     "pf": 308,
-     "pc": 315,
-     "pts": 5,
-     "dif": "+1"
-    },
-    {
      "pos": 12,
-     "equipo": "CB ARTÉS",
-     "pj": 5,
-     "pg": 1,
-     "pp": 4,
-     "pf": 336,
-     "pc": 386,
-     "pts": 6,
-     "dif": "-2"
-    },
-    {
-     "pos": 13,
      "equipo": "LETRA CORPOREA BARBASTRO",
      "pj": 5,
      "pg": 1,
@@ -284,6 +273,17 @@
      "pc": 435,
      "pts": 6,
      "dif": "-2"
+    },
+    {
+     "pos": 13,
+     "equipo": "CB ARTÉS",
+     "pj": 6,
+     "pg": 1,
+     "pp": 5,
+     "pf": 404,
+     "pc": 493,
+     "pts": 7,
+     "dif": "-3"
     },
     {
      "pos": 14,
@@ -304,102 +304,102 @@
    "competicion": "2026/2027 Segunda Aragonesa Masculina",
    "grupo": "Primera Fase Grupo 03",
    "jornada": {
-    "titulo": "Jornada 3 25/10/2026",
+    "titulo": "Jornada 4 08/11/2026",
     "partidos": [
      {
-      "texto": "CD SAN LAZARO - BLACK LIONS B",
-      "local": "CD SAN LAZARO",
-      "visitante": "BLACK LIONS B",
-      "resultado": "71-53",
-      "fecha": "25/10/2026",
+      "texto": "C.B. VALDEFIERRO - CD SAN LAZARO",
+      "local": "C.B. VALDEFIERRO",
+      "visitante": "CD SAN LAZARO",
+      "resultado": "26-76",
+      "fecha": "07/11/2026",
       "hora": null,
       "campo": null
      },
      {
-      "texto": "BASKET SOBRARBE - MAMIS BC",
-      "local": "BASKET SOBRARBE",
-      "visitante": "MAMIS BC",
-      "resultado": "72-68",
-      "fecha": "24/10/2026",
+      "texto": "FC VADORREY IBERIA - SUNS DE VIA AUGUSTA",
+      "local": "FC VADORREY IBERIA",
+      "visitante": "SUNS DE VIA AUGUSTA",
+      "resultado": "51-77",
+      "fecha": "08/11/2026",
       "hora": null,
       "campo": null
      },
      {
-      "texto": "IREMAR BARBASTRO - DOCTOR AZUA B",
-      "local": "IREMAR BARBASTRO",
-      "visitante": "DOCTOR AZUA B",
-      "resultado": "58-71",
-      "fecha": "24/10/2026",
+      "texto": "DOCTOR AZUA B - POLIDEPORTIVO SAN AGUSTIN",
+      "local": "DOCTOR AZUA B",
+      "visitante": "POLIDEPORTIVO SAN AGUSTIN",
+      "resultado": "35-72",
+      "fecha": "07/11/2026",
       "hora": null,
       "campo": null
      },
      {
-      "texto": "EL EQUIPO DE JAVI - FC VADORREY IBERIA",
-      "local": "EL EQUIPO DE JAVI",
-      "visitante": "FC VADORREY IBERIA",
-      "resultado": "97-66",
-      "fecha": "25/10/2026",
+      "texto": "MAMIS BC - IREMAR BARBASTRO",
+      "local": "MAMIS BC",
+      "visitante": "IREMAR BARBASTRO",
+      "resultado": "103-61",
+      "fecha": "08/11/2026",
       "hora": null,
       "campo": null
      },
      {
-      "texto": "SUNS DE VIA AUGUSTA - C.B. VALDEFIERRO",
-      "local": "SUNS DE VIA AUGUSTA",
-      "visitante": "C.B. VALDEFIERRO",
-      "resultado": "69-46",
-      "fecha": "24/10/2026",
+      "texto": "BLACK LIONS B - BASKET SOBRARBE",
+      "local": "BLACK LIONS B",
+      "visitante": "BASKET SOBRARBE",
+      "resultado": "76-81",
+      "fecha": "07/11/2026",
       "hora": null,
       "campo": null
      }
     ]
    },
    "proxima": {
-    "titulo": "Próxima Jornada 4 08/11/2026",
+    "titulo": "Próxima Jornada 5 15/11/2026",
     "partidos": [
      {
-      "texto": "C.B. VALDEFIERRO - CD SAN LAZARO",
-      "local": "C.B. VALDEFIERRO",
-      "visitante": "CD SAN LAZARO",
-      "resultado": null,
-      "fecha": "07/11/2026",
-      "hora": null,
-      "campo": "CDM VALDEFIERRO. VIA LACTEA (Zaragoza)"
-     },
-     {
-      "texto": "FC VADORREY IBERIA - SUNS DE VIA AUGUSTA",
-      "local": "FC VADORREY IBERIA",
-      "visitante": "SUNS DE VIA AUGUSTA",
-      "resultado": null,
-      "fecha": "08/11/2026",
-      "hora": null,
-      "campo": "PAB. TENERIAS. Pº ECHEGARAY Y CABALLERO, S/N (Zaragoza)"
-     },
-     {
-      "texto": "DOCTOR AZUA B - POLIDEPORTIVO SAN AGUSTIN",
-      "local": "DOCTOR AZUA B",
-      "visitante": "POLIDEPORTIVO SAN AGUSTIN",
-      "resultado": null,
-      "fecha": "07/11/2026",
-      "hora": null,
-      "campo": "DOCTOR AZUA. PEDRO III ELGRANDE, 4 (Zaragoza)"
-     },
-     {
-      "texto": "MAMIS BC - IREMAR BARBASTRO",
-      "local": "MAMIS BC",
-      "visitante": "IREMAR BARBASTRO",
-      "resultado": null,
-      "fecha": "08/11/2026",
-      "hora": null,
-      "campo": "PAB. SANTO DOMINGO. Pº ECHEGARAY Y CABALLERO (Zaragoza)"
-     },
-     {
-      "texto": "BLACK LIONS B - BASKET SOBRARBE",
-      "local": "BLACK LIONS B",
+      "texto": "CD SAN LAZARO - BASKET SOBRARBE",
+      "local": "CD SAN LAZARO",
       "visitante": "BASKET SOBRARBE",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "15/11/2026",
       "hora": null,
-      "campo": "PAB. CESAR AUGUSTO. ASIN Y PALACIOS, S/N (Zaragoza)"
+      "campo": "PAB. TENERIAS. Pº ECHEGARAY Y CABALLERO (Zaragoza)"
+     },
+     {
+      "texto": "IREMAR BARBASTRO - BLACK LIONS B",
+      "local": "IREMAR BARBASTRO",
+      "visitante": "BLACK LIONS B",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PAB. ANGEL ORUS. PLAZA MAYOR (Barbastro)"
+     },
+     {
+      "texto": "POLIDEPORTIVO SAN AGUSTIN - MAMIS BC",
+      "local": "POLIDEPORTIVO SAN AGUSTIN",
+      "visitante": "MAMIS BC",
+      "resultado": null,
+      "fecha": "15/11/2026",
+      "hora": null,
+      "campo": "POLIDEPORTIVO SAN AGUSTIN. PASEO ROSALES, S/N (Zaragoza)"
+     },
+     {
+      "texto": "EL EQUIPO DE JAVI - DOCTOR AZUA B",
+      "local": "EL EQUIPO DE JAVI",
+      "visitante": "DOCTOR AZUA B",
+      "resultado": null,
+      "fecha": "15/11/2026",
+      "hora": null,
+      "campo": "PAB SANTO DOMINGO. Pº ECHEGARAY Y CABALLERO, S/N (Zaragoza)"
+     },
+     {
+      "texto": "C.B. VALDEFIERRO - FC VADORREY IBERIA",
+      "local": "C.B. VALDEFIERRO",
+      "visitante": "FC VADORREY IBERIA",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "CDM VALDEFIERRO. VIA LACTEA (Zaragoza)"
      }
     ]
    },
@@ -407,60 +407,82 @@
     {
      "pos": 1,
      "equipo": "CD SAN LAZARO",
-     "pj": 3,
-     "pg": 2,
+     "pj": 4,
+     "pg": 3,
      "pp": 1,
-     "pf": 219,
-     "pc": 186,
-     "pts": 5,
-     "dif": "+1"
+     "pf": 295,
+     "pc": 212,
+     "pts": 7,
+     "dif": "+2"
     },
     {
      "pos": 2,
      "equipo": "SUNS DE VIA AUGUSTA",
-     "pj": 3,
-     "pg": 2,
+     "pj": 4,
+     "pg": 3,
      "pp": 1,
-     "pf": 203,
-     "pc": 178,
-     "pts": 5,
-     "dif": "+2"
+     "pf": 280,
+     "pc": 229,
+     "pts": 7,
+     "dif": "+3"
     },
     {
      "pos": 3,
-     "equipo": "BLACK LIONS B",
+     "equipo": "POLIDEPORTIVO SAN AGUSTIN",
      "pj": 3,
-     "pg": 2,
-     "pp": 1,
-     "pf": 211,
-     "pc": 192,
-     "pts": 5,
-     "dif": "-1"
+     "pg": 3,
+     "pp": 0,
+     "pf": 258,
+     "pc": 126,
+     "pts": 6,
+     "dif": "+3"
     },
     {
      "pos": 4,
+     "equipo": "BLACK LIONS B",
+     "pj": 4,
+     "pg": 2,
+     "pp": 2,
+     "pf": 287,
+     "pc": 273,
+     "pts": 6,
+     "dif": "-2"
+    },
+    {
+     "pos": 5,
      "equipo": "DOCTOR AZUA B",
+     "pj": 4,
+     "pg": 2,
+     "pp": 2,
+     "pf": 222,
+     "pc": 279,
+     "pts": 6,
+     "dif": "-1"
+    },
+    {
+     "pos": 6,
+     "equipo": "BASKET SOBRARBE",
      "pj": 3,
      "pg": 2,
      "pp": 1,
-     "pf": 187,
-     "pc": 207,
+     "pf": 219,
+     "pc": 213,
      "pts": 5,
      "dif": "+2"
     },
     {
-     "pos": 5,
-     "equipo": "POLIDEPORTIVO SAN AGUSTIN",
-     "pj": 2,
-     "pg": 2,
-     "pp": 0,
-     "pf": 186,
-     "pc": 91,
-     "pts": 4,
-     "dif": "+2"
+     "pos": 7,
+     "equipo": "MAMIS BC",
+     "pj": 4,
+     "pg": 1,
+     "pp": 3,
+     "pf": 305,
+     "pc": 287,
+     "pts": 5,
+     "dif": "+1"
     },
     {
-     "pos": 6,
+     "pos": 8,
      "equipo": "EL EQUIPO DE JAVI",
      "pj": 2,
      "pg": 2,
@@ -471,59 +493,37 @@
      "dif": "+2"
     },
     {
-     "pos": 7,
-     "equipo": "IREMAR BARBASTRO",
-     "pj": 2,
-     "pg": 1,
-     "pp": 1,
-     "pf": 132,
-     "pc": 121,
-     "pts": 3,
-     "dif": "-1"
-    },
-    {
-     "pos": 8,
-     "equipo": "BASKET SOBRARBE",
-     "pj": 2,
-     "pg": 1,
-     "pp": 1,
-     "pf": 138,
-     "pc": 137,
-     "pts": 3,
-     "dif": "+1"
-    },
-    {
      "pos": 9,
-     "equipo": "MAMIS BC",
+     "equipo": "IREMAR BARBASTRO",
      "pj": 3,
-     "pg": 0,
-     "pp": 3,
-     "pf": 202,
-     "pc": 226,
-     "pts": 3,
-     "dif": "-3"
+     "pg": 1,
+     "pp": 2,
+     "pf": 193,
+     "pc": 224,
+     "pts": 4,
+     "dif": "-2"
     },
     {
      "pos": 10,
      "equipo": "FC VADORREY IBERIA",
-     "pj": 3,
+     "pj": 4,
      "pg": 0,
-     "pp": 3,
-     "pf": 155,
-     "pc": 267,
-     "pts": 3,
-     "dif": "-3"
+     "pp": 4,
+     "pf": 206,
+     "pc": 344,
+     "pts": 4,
+     "dif": "-4"
     },
     {
      "pos": 11,
      "equipo": "C.B. VALDEFIERRO",
-     "pj": 2,
+     "pj": 3,
      "pg": 0,
-     "pp": 2,
-     "pf": 98,
-     "pc": 159,
-     "pts": 2,
-     "dif": "-2"
+     "pp": 3,
+     "pf": 124,
+     "pc": 235,
+     "pts": 3,
+     "dif": "-3"
     }
    ],
    "club": "BARBASTRO",
@@ -533,175 +533,175 @@
    "competicion": "2026/2027 Tercera Aragonesa Femenina",
    "grupo": "Primera Fase Grupo 02",
    "jornada": {
-    "titulo": "Jornada 2 25/10/2026",
+    "titulo": "Jornada 3 08/11/2026",
     "partidos": [
      {
-      "texto": "BAJO ARAGON - CB VALDEFIERRO",
-      "local": "BAJO ARAGON",
-      "visitante": "CB VALDEFIERRO",
-      "resultado": "45-21",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "MOLIERE-INTEGRATED ENGINEERING SERVICES - CB FUENTES",
-      "local": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-      "visitante": "CB FUENTES",
-      "resultado": "36-30",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "CBA-ESTO SE MUEVE - DOMINICOS",
-      "local": "CBA-ESTO SE MUEVE",
-      "visitante": "DOMINICOS",
-      "resultado": "56-46",
-      "fecha": "25/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "BASKET LUPUS SFC - WIYOB BARBASTRO",
-      "local": "BASKET LUPUS SFC",
+      "texto": "CB VALDEFIERRO - WIYOB BARBASTRO",
+      "local": "CB VALDEFIERRO",
       "visitante": "WIYOB BARBASTRO",
-      "resultado": "31-47",
-      "fecha": "24/10/2026",
+      "resultado": "40-26",
+      "fecha": "08/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "DOMINICOS - BASKET LUPUS SFC",
+      "local": "DOMINICOS",
+      "visitante": "BASKET LUPUS SFC",
+      "resultado": "50-27",
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "CB FUENTES - CBA-ESTO SE MUEVE",
+      "local": "CB FUENTES",
+      "visitante": "CBA-ESTO SE MUEVE",
+      "resultado": "31-55",
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "BAJO ARAGON - MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "local": "BAJO ARAGON",
+      "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "resultado": "28-41",
+      "fecha": "07/11/2026",
       "hora": null,
       "campo": null
      }
     ]
    },
    "proxima": {
-    "titulo": "Próxima Jornada 3 08/11/2026",
+    "titulo": "Próxima Jornada 4 15/11/2026",
     "partidos": [
      {
-      "texto": "CB VALDEFIERRO - WIYOB BARBASTRO",
-      "local": "CB VALDEFIERRO",
-      "visitante": "WIYOB BARBASTRO",
+      "texto": "MOLIERE-INTEGRATED ENGINEERING SERVICES - CB VALDEFIERRO",
+      "local": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "visitante": "CB VALDEFIERRO",
       "resultado": null,
-      "fecha": "08/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "P.K. VALDEFIERRO. VIA LACTEA (Zaragoza)"
+      "campo": "LYCEE FRANÇAIS MOLIERE. MANUEL MARRACO (Zaragoza)"
      },
      {
-      "texto": "DOMINICOS - BASKET LUPUS SFC",
-      "local": "DOMINICOS",
-      "visitante": "BASKET LUPUS SFC",
+      "texto": "CBA-ESTO SE MUEVE - BAJO ARAGON",
+      "local": "CBA-ESTO SE MUEVE",
+      "visitante": "BAJO ARAGON",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "15/11/2026",
       "hora": null,
-      "campo": "DOMINICOS. PZA. SAN FRANCISCO (Zaragoza)"
+      "campo": null
      },
      {
-      "texto": "CB FUENTES - CBA-ESTO SE MUEVE",
-      "local": "CB FUENTES",
-      "visitante": "CBA-ESTO SE MUEVE",
+      "texto": "BASKET LUPUS SFC - CB FUENTES",
+      "local": "BASKET LUPUS SFC",
+      "visitante": "CB FUENTES",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "PAB. FUENTES. DESCONOCIDA (Fuentes de Ebro)"
+      "campo": "PAB. LA JOTA. MANUEL VIOLA, S/N (Zaragoza)"
      },
      {
-      "texto": "BAJO ARAGON - MOLIERE-INTEGRATED ENGINEERING SERVICES",
-      "local": "BAJO ARAGON",
-      "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "texto": "WIYOB BARBASTRO - DOMINICOS",
+      "local": "WIYOB BARBASTRO",
+      "visitante": "DOMINICOS",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "BAJO ARAGON. PADRE CHAMINADE, 6 (Zaragoza)"
+      "campo": "PABELLON ANGEL ORUS. MONSEÑOR ESCRIBA, S/Nº (Barbastro)"
      }
     ]
    },
    "clasificacion": [
     {
      "pos": 1,
-     "equipo": "BAJO ARAGON",
-     "pj": 2,
+     "equipo": "CBA-ESTO SE MUEVE",
+     "pj": 3,
      "pg": 2,
-     "pp": 0,
-     "pf": 92,
-     "pc": 54,
-     "pts": 4,
+     "pp": 1,
+     "pf": 174,
+     "pc": 144,
+     "pts": 5,
      "dif": "+2"
     },
     {
      "pos": 2,
-     "equipo": "WIYOB BARBASTRO",
-     "pj": 2,
+     "equipo": "BAJO ARAGON",
+     "pj": 3,
      "pg": 2,
-     "pp": 0,
-     "pf": 114,
-     "pc": 94,
-     "pts": 4,
-     "dif": "+2"
+     "pp": 1,
+     "pf": 120,
+     "pc": 95,
+     "pts": 5,
+     "dif": "-1"
     },
     {
      "pos": 3,
-     "equipo": "CBA-ESTO SE MUEVE",
-     "pj": 2,
-     "pg": 1,
+     "equipo": "DOMINICOS",
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 119,
-     "pc": 113,
-     "pts": 3,
+     "pf": 141,
+     "pc": 122,
+     "pts": 5,
      "dif": "+1"
     },
     {
      "pos": 4,
      "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-     "pj": 2,
-     "pg": 1,
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 75,
-     "pc": 75,
-     "pts": 3,
-     "dif": "+1"
+     "pf": 116,
+     "pc": 103,
+     "pts": 5,
+     "dif": "+2"
     },
     {
      "pos": 5,
-     "equipo": "DOMINICOS",
-     "pj": 2,
-     "pg": 1,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 91,
-     "pc": 95,
-     "pts": 3,
+     "pf": 140,
+     "pc": 134,
+     "pts": 5,
      "dif": "-1"
     },
     {
      "pos": 6,
      "equipo": "CB VALDEFIERRO",
-     "pj": 2,
-     "pg": 1,
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 58,
-     "pc": 69,
-     "pts": 3,
-     "dif": "-1"
+     "pf": 98,
+     "pc": 95,
+     "pts": 5,
+     "dif": "+1"
     },
     {
      "pos": 7,
      "equipo": "CB FUENTES",
-     "pj": 2,
+     "pj": 3,
      "pg": 0,
-     "pp": 2,
-     "pf": 63,
-     "pc": 83,
-     "pts": 2,
-     "dif": "-2"
+     "pp": 3,
+     "pf": 94,
+     "pc": 138,
+     "pts": 3,
+     "dif": "-3"
     },
     {
      "pos": 8,
      "equipo": "BASKET LUPUS SFC",
-     "pj": 2,
+     "pj": 3,
      "pg": 0,
-     "pp": 2,
-     "pf": 55,
-     "pc": 84,
-     "pts": 2,
-     "dif": "-2"
+     "pp": 3,
+     "pf": 82,
+     "pc": 134,
+     "pts": 3,
+     "dif": "-3"
     }
    ],
    "club": "BARBASTRO",
@@ -711,102 +711,102 @@
    "competicion": "2026/2027 Cº Aragón Junior Masculino 3ª",
    "grupo": "Primera Fase Grupo 02",
    "jornada": {
-    "titulo": "Jornada 2 25/10/2026",
+    "titulo": "Jornada 3 08/11/2026",
     "partidos": [
      {
-      "texto": "BASKET ARAGON - MUERDE LA PASTA ALIERTA C",
-      "local": "BASKET ARAGON",
-      "visitante": "MUERDE LA PASTA ALIERTA C",
-      "resultado": "44-69",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "SANTA ISABEL DEPORTIVO - CB MONZON",
-      "local": "SANTA ISABEL DEPORTIVO",
-      "visitante": "CB MONZON",
-      "resultado": "60-29",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "DOCTOR AZUA - MOLIERE-INTEGRATED ENGINEERING SERVICES",
-      "local": "DOCTOR AZUA",
-      "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-      "resultado": "27-36",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "BASKET LUPUS JMC - WIYOB BARBASTRO",
-      "local": "BASKET LUPUS JMC",
-      "visitante": "WIYOB BARBASTRO",
-      "resultado": "35-55",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "MARIANISTAS C1 - CRISTO REY A",
-      "local": "MARIANISTAS C1",
+      "texto": "MUERDE LA PASTA ALIERTA C - CRISTO REY A",
+      "local": "MUERDE LA PASTA ALIERTA C",
       "visitante": "CRISTO REY A",
-      "resultado": "64-62",
-      "fecha": "24/10/2026",
+      "resultado": "55-58",
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "WIYOB BARBASTRO - MARIANISTAS C1",
+      "local": "WIYOB BARBASTRO",
+      "visitante": "MARIANISTAS C1",
+      "resultado": "64-49",
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "MOLIERE-INTEGRATED ENGINEERING SERVICES - BASKET LUPUS JMC",
+      "local": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "visitante": "BASKET LUPUS JMC",
+      "resultado": "56-45",
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "CB MONZON - DOCTOR AZUA",
+      "local": "CB MONZON",
+      "visitante": "DOCTOR AZUA",
+      "resultado": "55-51",
+      "fecha": "07/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "BASKET ARAGON - SANTA ISABEL DEPORTIVO",
+      "local": "BASKET ARAGON",
+      "visitante": "SANTA ISABEL DEPORTIVO",
+      "resultado": "27-82",
+      "fecha": "07/11/2026",
       "hora": null,
       "campo": null
      }
     ]
    },
    "proxima": {
-    "titulo": "Próxima Jornada 3 08/11/2026",
+    "titulo": "Próxima Jornada 4 15/11/2026",
     "partidos": [
      {
-      "texto": "MUERDE LA PASTA ALIERTA C - CRISTO REY A",
-      "local": "MUERDE LA PASTA ALIERTA C",
-      "visitante": "CRISTO REY A",
+      "texto": "SANTA ISABEL DEPORTIVO - MUERDE LA PASTA ALIERTA C",
+      "local": "SANTA ISABEL DEPORTIVO",
+      "visitante": "MUERDE LA PASTA ALIERTA C",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "CESAR AUGUSTO. ASIN Y PALACIOS (Zaragoza)"
+      "campo": "PAB FERNANDO ESCARTIN. DESCONOCIDA (Santa Isabel)"
      },
      {
-      "texto": "WIYOB BARBASTRO - MARIANISTAS C1",
-      "local": "WIYOB BARBASTRO",
-      "visitante": "MARIANISTAS C1",
+      "texto": "DOCTOR AZUA - BASKET ARAGON",
+      "local": "DOCTOR AZUA",
+      "visitante": "BASKET ARAGON",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "PAN. ANGEL ORUS. C/ ABAD Y LASIERRA (Barbastro)"
+      "campo": "DOCTOR AZUA. PEDRO III EL GRANDE, 4 (Zaragoza)"
      },
      {
-      "texto": "MOLIERE-INTEGRATED ENGINEERING SERVICES - BASKET LUPUS JMC",
-      "local": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-      "visitante": "BASKET LUPUS JMC",
+      "texto": "BASKET LUPUS JMC - CB MONZON",
+      "local": "BASKET LUPUS JMC",
+      "visitante": "CB MONZON",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "ESCOLAPIOS. CONDE ARANDA (Zaragoza)"
+      "campo": "PAB. LA JOTA. MANUEL VIOLA (Zaragoza)"
      },
      {
-      "texto": "CB MONZON - DOCTOR AZUA",
-      "local": "CB MONZON",
-      "visitante": "DOCTOR AZUA",
+      "texto": "MARIANISTAS C1 - MOLIERE-INTEGRATED ENGINEERING SERVICES",
+      "local": "MARIANISTAS C1",
+      "visitante": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "PABELLON MUNICIPAL. DESCONOCIDA (Monzón)"
+      "campo": "MARIANISTAS. Pº REYES DE ARAGON (Zaragoza)"
      },
      {
-      "texto": "BASKET ARAGON - SANTA ISABEL DEPORTIVO",
-      "local": "BASKET ARAGON",
-      "visitante": "SANTA ISABEL DEPORTIVO",
+      "texto": "CRISTO REY A - WIYOB BARBASTRO",
+      "local": "CRISTO REY A",
+      "visitante": "WIYOB BARBASTRO",
       "resultado": null,
-      "fecha": "07/11/2026",
+      "fecha": "14/11/2026",
       "hora": null,
-      "campo": "SIGLO XXI. AV. RANILLAS (Zaragoza)"
+      "campo": "CRISTO REY. AV. ACADEMIA GRAL. MILITAR (Zaragoza)"
      }
     ]
    },
@@ -814,112 +814,112 @@
     {
      "pos": 1,
      "equipo": "SANTA ISABEL DEPORTIVO",
-     "pj": 2,
-     "pg": 2,
+     "pj": 3,
+     "pg": 3,
      "pp": 0,
-     "pf": 119,
-     "pc": 55,
-     "pts": 4,
-     "dif": "+2"
+     "pf": 201,
+     "pc": 82,
+     "pts": 6,
+     "dif": "+3"
     },
     {
      "pos": 2,
      "equipo": "WIYOB BARBASTRO",
-     "pj": 2,
-     "pg": 2,
+     "pj": 3,
+     "pg": 3,
      "pp": 0,
-     "pf": 117,
-     "pc": 79,
-     "pts": 4,
-     "dif": "+2"
+     "pf": 181,
+     "pc": 128,
+     "pts": 6,
+     "dif": "+3"
     },
     {
      "pos": 3,
      "equipo": "MUERDE LA PASTA ALIERTA C",
-     "pj": 2,
+     "pj": 3,
      "pg": 2,
-     "pp": 0,
-     "pf": 124,
-     "pc": 86,
-     "pts": 4,
-     "dif": "+2"
+     "pp": 1,
+     "pf": 179,
+     "pc": 144,
+     "pts": 5,
+     "dif": "-1"
     },
     {
      "pos": 4,
      "equipo": "CRISTO REY A",
-     "pj": 2,
-     "pg": 1,
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 104,
-     "pc": 95,
-     "pts": 3,
-     "dif": "-1"
+     "pf": 162,
+     "pc": 150,
+     "pts": 5,
+     "dif": "+1"
     },
     {
      "pos": 5,
-     "equipo": "MARIANISTAS C1",
-     "pj": 2,
-     "pg": 1,
+     "equipo": "CB MONZON",
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 106,
-     "pc": 117,
-     "pts": 3,
+     "pf": 154,
+     "pc": 163,
+     "pts": 5,
      "dif": "+1"
     },
     {
      "pos": 6,
-     "equipo": "CB MONZON",
-     "pj": 2,
-     "pg": 1,
+     "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
+     "pj": 3,
+     "pg": 2,
      "pp": 1,
-     "pf": 99,
-     "pc": 112,
-     "pts": 3,
-     "dif": "-1"
+     "pf": 118,
+     "pc": 131,
+     "pts": 5,
+     "dif": "+2"
     },
     {
      "pos": 7,
-     "equipo": "MOLIERE-INTEGRATED ENGINEERING SERVICES",
-     "pj": 2,
+     "equipo": "MARIANISTAS C1",
+     "pj": 3,
      "pg": 1,
-     "pp": 1,
-     "pf": 62,
-     "pc": 86,
-     "pts": 3,
-     "dif": "+1"
+     "pp": 2,
+     "pf": 155,
+     "pc": 181,
+     "pts": 4,
+     "dif": "-1"
     },
     {
      "pos": 8,
      "equipo": "DOCTOR AZUA",
-     "pj": 2,
+     "pj": 3,
      "pg": 0,
-     "pp": 2,
-     "pf": 71,
-     "pc": 98,
-     "pts": 2,
-     "dif": "-2"
+     "pp": 3,
+     "pf": 122,
+     "pc": 153,
+     "pts": 3,
+     "dif": "-3"
     },
     {
      "pos": 9,
      "equipo": "BASKET LUPUS JMC",
-     "pj": 2,
+     "pj": 3,
      "pg": 0,
-     "pp": 2,
-     "pf": 66,
-     "pc": 97,
-     "pts": 2,
-     "dif": "-2"
+     "pp": 3,
+     "pf": 111,
+     "pc": 153,
+     "pts": 3,
+     "dif": "-3"
     },
     {
      "pos": 10,
      "equipo": "BASKET ARAGON",
-     "pj": 2,
+     "pj": 3,
      "pg": 0,
-     "pp": 2,
-     "pf": 96,
-     "pc": 139,
-     "pts": 2,
-     "dif": "-2"
+     "pp": 3,
+     "pf": 123,
+     "pc": 221,
+     "pts": 3,
+     "dif": "-3"
     }
    ],
    "club": "BARBASTRO",
