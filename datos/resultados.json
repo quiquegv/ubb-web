@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-08T22:22:33Z",
- "huella": "e3c0cc58fb134106a8a86e296bf1cd6193a6430f0e7544da17c2488902ce31a1",
+ "actualizado": "2026-11-09T16:58:05Z",
+ "huella": "3bb8fb5affbc58c20d36494f04c9212286beb410183c6d456dab42a5a486f540",
  "equipos": {
   "primer-equipo": {
    "competicion": "2026/2027 TERCERA FEB",
@@ -929,63 +929,22 @@
    "competicion": "2026/2027 Cadete Femenino - Huesca",
    "grupo": "Liga Regular Grupo 01",
    "jornada": {
-    "titulo": "Jornada 1 24/10/2026",
-    "partidos": [
-     {
-      "texto": "VISALIA CBF HUESCA - C.D.E. SANTA ANA BINACED",
-      "local": "VISALIA CBF HUESCA",
-      "visitante": "C.D.E. SANTA ANA BINACED",
-      "resultado": "65-27",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "C.B. GRAUS - WIYOB BARBASTRO",
-      "local": "C.B. GRAUS",
-      "visitante": "WIYOB BARBASTRO",
-      "resultado": "38-37",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "C. DENTAL FRANCISCA VIZCARRA JACA - PEÑA LA MURGA SABIÑÁNIGO",
-      "local": "C. DENTAL FRANCISCA VIZCARRA JACA",
-      "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
-      "resultado": "58-28",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "STAR CBF HUESCA - C.B. MONZÓN",
-      "local": "STAR CBF HUESCA",
-      "visitante": "C.B. MONZÓN",
-      "resultado": "9-84",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     }
-    ]
-   },
-   "proxima": {
-    "titulo": "Próxima Jornada 2 07/11/2026",
+    "titulo": "Jornada 2 07/11/2026",
     "partidos": [
      {
       "texto": "CB PEÑAS - VISALIA CBF HUESCA",
       "local": "CB PEÑAS",
       "visitante": "VISALIA CBF HUESCA",
-      "resultado": null,
+      "resultado": "20-43",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PAB. ALCORAZ. CALLE BINÉFAR, 5 (_ (Huesca))"
+      "campo": null
      },
      {
       "texto": "PEÑA LA MURGA SABIÑÁNIGO - STAR CBF HUESCA",
       "local": "PEÑA LA MURGA SABIÑÁNIGO",
       "visitante": "STAR CBF HUESCA",
-      "resultado": null,
+      "resultado": "51-19",
       "fecha": "07/11/2026",
       "hora": null,
       "campo": null
@@ -994,25 +953,110 @@
       "texto": "WIYOB BARBASTRO - C. DENTAL FRANCISCA VIZCARRA JACA",
       "local": "WIYOB BARBASTRO",
       "visitante": "C. DENTAL FRANCISCA VIZCARRA JACA",
-      "resultado": null,
+      "resultado": "20-75",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "Pabellón Angel Orús. C/Obispo Abad y Lasierra, s/núm (Barbastro)"
+      "campo": null
      },
      {
       "texto": "C.D.E. SANTA ANA BINACED - C.B. GRAUS",
       "local": "C.D.E. SANTA ANA BINACED",
       "visitante": "C.B. GRAUS",
-      "resultado": null,
+      "resultado": "47-50",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PABELLON MUNICIPAL. PABELLON MUNICIPAL (Binaced)"
+      "campo": null
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 3 14/11/2026",
+    "partidos": [
+     {
+      "texto": "VISALIA CBF HUESCA - C.B. GRAUS",
+      "local": "VISALIA CBF HUESCA",
+      "visitante": "C.B. GRAUS",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "C. DENTAL FRANCISCA VIZCARRA JACA - C.D.E. SANTA ANA BINACED",
+      "local": "C. DENTAL FRANCISCA VIZCARRA JACA",
+      "visitante": "C.D.E. SANTA ANA BINACED",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "POLIDEPORTIVO MONTE OROEL. CALLE ESTACION, C/Nº (Jaca)"
+     },
+     {
+      "texto": "STAR CBF HUESCA - WIYOB BARBASTRO",
+      "local": "STAR CBF HUESCA",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PAB. ALCORAZ. DOCTOR ARTERO, 14 (Huesca)"
+     },
+     {
+      "texto": "CB PEÑAS - C.B. MONZÓN",
+      "local": "CB PEÑAS",
+      "visitante": "C.B. MONZÓN",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PAB. ALCORAZ. CALLE BINÉFAR, 5 (_ (Huesca))"
      }
     ]
    },
    "clasificacion": [
     {
      "pos": 1,
+     "equipo": "C. DENTAL FRANCISCA VIZCARRA JACA",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 133,
+     "pc": 48,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 2,
+     "equipo": "VISALIA CBF HUESCA",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 108,
+     "pc": 47,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 3,
+     "equipo": "C.B. GRAUS",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 88,
+     "pc": 84,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 4,
+     "equipo": "PEÑA LA MURGA SABIÑÁNIGO",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 79,
+     "pc": 77,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 5,
      "equipo": "C.B. MONZÓN",
      "pj": 1,
      "pg": 1,
@@ -1023,92 +1067,48 @@
      "dif": "+1"
     },
     {
-     "pos": 2,
-     "equipo": "VISALIA CBF HUESCA",
-     "pj": 1,
-     "pg": 1,
-     "pp": 0,
-     "pf": 65,
-     "pc": 27,
-     "pts": 2,
-     "dif": "+1"
-    },
-    {
-     "pos": 3,
-     "equipo": "C. DENTAL FRANCISCA VIZCARRA JACA",
-     "pj": 1,
-     "pg": 1,
-     "pp": 0,
-     "pf": 58,
-     "pc": 28,
-     "pts": 2,
-     "dif": "+1"
-    },
-    {
-     "pos": 4,
-     "equipo": "C.B. GRAUS",
-     "pj": 1,
-     "pg": 1,
-     "pp": 0,
-     "pf": 38,
-     "pc": 37,
-     "pts": 2,
-     "dif": "+1"
-    },
-    {
-     "pos": 5,
-     "equipo": "WIYOB BARBASTRO",
-     "pj": 1,
-     "pg": 0,
-     "pp": 1,
-     "pf": 37,
-     "pc": 38,
-     "pts": 1,
-     "dif": "-1"
-    },
-    {
      "pos": 6,
-     "equipo": "PEÑA LA MURGA SABIÑÁNIGO",
-     "pj": 1,
+     "equipo": "C.D.E. SANTA ANA BINACED",
+     "pj": 2,
      "pg": 0,
-     "pp": 1,
-     "pf": 28,
-     "pc": 58,
-     "pts": 1,
-     "dif": "-1"
+     "pp": 2,
+     "pf": 74,
+     "pc": 115,
+     "pts": 2,
+     "dif": "-2"
     },
     {
      "pos": 7,
-     "equipo": "C.D.E. SANTA ANA BINACED",
-     "pj": 1,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 2,
      "pg": 0,
-     "pp": 1,
-     "pf": 27,
-     "pc": 65,
-     "pts": 1,
-     "dif": "-1"
+     "pp": 2,
+     "pf": 57,
+     "pc": 113,
+     "pts": 2,
+     "dif": "-2"
     },
     {
      "pos": 8,
      "equipo": "STAR CBF HUESCA",
+     "pj": 2,
+     "pg": 0,
+     "pp": 2,
+     "pf": 28,
+     "pc": 135,
+     "pts": 2,
+     "dif": "-2"
+    },
+    {
+     "pos": 9,
+     "equipo": "CB PEÑAS",
      "pj": 1,
      "pg": 0,
      "pp": 1,
-     "pf": 9,
-     "pc": 84,
+     "pf": 20,
+     "pc": 43,
      "pts": 1,
      "dif": "-1"
-    },
-    {
-     "pos": 10,
-     "equipo": "CB PEÑAS",
-     "pj": 0,
-     "pg": 0,
-     "pp": 0,
-     "pf": 0,
-     "pc": 0,
-     "pts": 0,
-     "dif": "0"
     }
    ],
    "club": "BARBASTRO",
@@ -1118,90 +1118,145 @@
    "competicion": "2026/2027 Cadete Masculino - Huesca",
    "grupo": "Liga Regular Grupo 01",
    "jornada": {
-    "titulo": "Jornada 1 24/10/2026",
-    "partidos": [
-     {
-      "texto": "C.B. GRAUS - WIYOB BARBASTRO",
-      "local": "C.B. GRAUS",
-      "visitante": "WIYOB BARBASTRO",
-      "resultado": "100-51",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "CARNICERIA UBIETO JACA - PEÑA LA MURGA SABIÑÁNIGO",
-      "local": "CARNICERIA UBIETO JACA",
-      "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
-      "resultado": "30-32",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "NEUMÁTICOS BARA BOSCOS - EID SOBRARBE",
-      "local": "NEUMÁTICOS BARA BOSCOS",
-      "visitante": "EID SOBRARBE",
-      "resultado": "62-17",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - C.B. PEÑAS A",
-      "local": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
-      "visitante": "C.B. PEÑAS A",
-      "resultado": null,
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": "PAB. DON BOSCOS. AV. MONREAL, 14 (Huesca)"
-     }
-    ]
-   },
-   "proxima": {
-    "titulo": "Próxima Jornada 2 07/11/2026",
+    "titulo": "Jornada 2 07/11/2026",
     "partidos": [
      {
       "texto": "C.B. PEÑAS A - C.B. PEÑAS B",
       "local": "C.B. PEÑAS A",
       "visitante": "C.B. PEÑAS B",
-      "resultado": null,
+      "resultado": "71-35",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PEÑAS CENTER. C/ Alcañiz, 5-7 (Huesca)"
+      "campo": null
      },
      {
       "texto": "EID SOBRARBE - SUPERMERCADOS ALTOARAGÓN BOSCOS",
       "local": "EID SOBRARBE",
       "visitante": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
-      "resultado": null,
+      "resultado": "36-92",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PABELLON MUNICIPAL. PABELLON MUNICIPAL (Boltaña)"
+      "campo": null
      },
      {
       "texto": "PEÑA LA MURGA SABIÑÁNIGO - NEUMÁTICOS BARA BOSCOS",
       "local": "PEÑA LA MURGA SABIÑÁNIGO",
       "visitante": "NEUMÁTICOS BARA BOSCOS",
-      "resultado": null,
+      "resultado": "59-29",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PAB. MUNICIPAL PUENTE SARDAS. C/ DERECHOS HUMANOS, 1 (Sabiñánigo)"
+      "campo": null
      },
      {
       "texto": "WIYOB BARBASTRO - CARNICERIA UBIETO JACA",
       "local": "WIYOB BARBASTRO",
       "visitante": "CARNICERIA UBIETO JACA",
-      "resultado": null,
+      "resultado": "69-36",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PABELLÓN ANGEL ORÚS. C/OBISPO ABAD Y LASIERRA, S/NÚM (Barbastro)"
+      "campo": null
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 3 14/11/2026",
+    "partidos": [
+     {
+      "texto": "C.B. PEÑAS B - C.B. GRAUS",
+      "local": "C.B. PEÑAS B",
+      "visitante": "C.B. GRAUS",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PEÑAS CENTER. C/ Alcañiz, 5-7 (_ (Huesca))"
+     },
+     {
+      "texto": "NEUMÁTICOS BARA BOSCOS - WIYOB BARBASTRO",
+      "local": "NEUMÁTICOS BARA BOSCOS",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "DON BOSCO. AVDA. MONREAL, 14 (Huesca)"
+     },
+     {
+      "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - PEÑA LA MURGA SABIÑÁNIGO",
+      "local": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "visitante": "PEÑA LA MURGA SABIÑÁNIGO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PAB. DON BOSCOS. AV. MONREAL, 14 (Huesca)"
+     },
+     {
+      "texto": "C.B. PEÑAS A - EID SOBRARBE",
+      "local": "C.B. PEÑAS A",
+      "visitante": "EID SOBRARBE",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PEÑAS CENTER. C/ Alcañiz, 5-7 (Huesca)"
      }
     ]
    },
    "clasificacion": [
     {
      "pos": 1,
+     "equipo": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 175,
+     "pc": 70,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 2,
+     "equipo": "PEÑA LA MURGA SABIÑÁNIGO",
+     "pj": 2,
+     "pg": 2,
+     "pp": 0,
+     "pf": 91,
+     "pc": 59,
+     "pts": 4,
+     "dif": "+2"
+    },
+    {
+     "pos": 3,
+     "equipo": "NEUMÁTICOS BARA BOSCOS",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 91,
+     "pc": 76,
+     "pts": 3,
+     "dif": "-1"
+    },
+    {
+     "pos": 4,
+     "equipo": "C.B. PEÑAS A",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 105,
+     "pc": 118,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 5,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 2,
+     "pg": 1,
+     "pp": 1,
+     "pf": 120,
+     "pc": 136,
+     "pts": 3,
+     "dif": "+1"
+    },
+    {
+     "pos": 6,
      "equipo": "C.B. GRAUS",
      "pj": 1,
      "pg": 1,
@@ -1212,92 +1267,37 @@
      "dif": "+1"
     },
     {
-     "pos": 2,
-     "equipo": "NEUMÁTICOS BARA BOSCOS",
-     "pj": 1,
-     "pg": 1,
-     "pp": 0,
-     "pf": 62,
-     "pc": 17,
-     "pts": 2,
-     "dif": "+1"
-    },
-    {
-     "pos": 3,
-     "equipo": "PEÑA LA MURGA SABIÑÁNIGO",
-     "pj": 1,
-     "pg": 1,
-     "pp": 0,
-     "pf": 32,
-     "pc": 30,
-     "pts": 2,
-     "dif": "+1"
-    },
-    {
-     "pos": 4,
+     "pos": 7,
      "equipo": "CARNICERIA UBIETO JACA",
-     "pj": 1,
+     "pj": 2,
      "pg": 0,
-     "pp": 1,
-     "pf": 30,
-     "pc": 32,
-     "pts": 1,
-     "dif": "-1"
-    },
-    {
-     "pos": 5,
-     "equipo": "EID SOBRARBE",
-     "pj": 1,
-     "pg": 0,
-     "pp": 1,
-     "pf": 17,
-     "pc": 62,
-     "pts": 1,
-     "dif": "-1"
-    },
-    {
-     "pos": 6,
-     "equipo": "WIYOB BARBASTRO",
-     "pj": 1,
-     "pg": 0,
-     "pp": 1,
-     "pf": 51,
-     "pc": 100,
-     "pts": 1,
-     "dif": "-1"
+     "pp": 2,
+     "pf": 66,
+     "pc": 101,
+     "pts": 2,
+     "dif": "-2"
     },
     {
      "pos": 8,
-     "equipo": "C.B. PEÑAS A",
-     "pj": 0,
+     "equipo": "EID SOBRARBE",
+     "pj": 2,
      "pg": 0,
-     "pp": 0,
-     "pf": 0,
-     "pc": 0,
-     "pts": 0,
-     "dif": "0"
+     "pp": 2,
+     "pf": 53,
+     "pc": 154,
+     "pts": 2,
+     "dif": "-2"
     },
     {
      "pos": 9,
      "equipo": "C.B. PEÑAS B",
-     "pj": 0,
+     "pj": 1,
      "pg": 0,
-     "pp": 0,
-     "pf": 0,
-     "pc": 0,
-     "pts": 0,
-     "dif": "0"
-    },
-    {
-     "pos": 10,
-     "equipo": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
-     "pj": 0,
-     "pg": 0,
-     "pp": 0,
-     "pf": 0,
-     "pc": 0,
-     "pts": 0,
-     "dif": "0"
+     "pp": 1,
+     "pf": 35,
+     "pc": 71,
+     "pts": 1,
+     "dif": "-1"
     }
    ],
    "club": "BARBASTRO",
@@ -1307,135 +1307,135 @@
    "competicion": "2026/2027 Infantil Masculino - Huesca",
    "grupo": "Liga Regular Grupo 01",
    "jornada": {
-    "titulo": "Jornada 1 24/10/2026",
-    "partidos": [
-     {
-      "texto": "C.B. GRAUS - C.B. MONZÓN AMARILLO",
-      "local": "C.B. GRAUS",
-      "visitante": "C.B. MONZÓN AMARILLO",
-      "resultado": "36-31",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "WIYOB BARBASTRO - C.B. MONZÓN NEGRO",
-      "local": "WIYOB BARBASTRO",
-      "visitante": "C.B. MONZÓN NEGRO",
-      "resultado": "75-31",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     },
-     {
-      "texto": "IES RAMON Y CAJAL HUESCA - SUPERMERCADOS ALTOARAGÓN BOSCOS",
-      "local": "IES RAMON Y CAJAL HUESCA",
-      "visitante": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
-      "resultado": "51-21",
-      "fecha": "24/10/2026",
-      "hora": null,
-      "campo": null
-     }
-    ]
-   },
-   "proxima": {
-    "titulo": "Próxima Jornada 2 07/11/2026",
+    "titulo": "Jornada 2 07/11/2026",
     "partidos": [
      {
       "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - C.B. GRAUS",
       "local": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
       "visitante": "C.B. GRAUS",
-      "resultado": null,
+      "resultado": "70-32",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "PAB. DON BOSCO. AV. MONREAL, 14 (Huesca)"
+      "campo": null
      },
      {
       "texto": "C.B. MONZÓN NEGRO - IES RAMON Y CAJAL HUESCA",
       "local": "C.B. MONZÓN NEGRO",
       "visitante": "IES RAMON Y CAJAL HUESCA",
-      "resultado": null,
+      "resultado": "15-67",
       "fecha": "07/11/2026",
       "hora": null,
-      "campo": "LOS OLIMPICOS. C/Los Deportes, s/núm (Monzón)"
+      "campo": null
      },
      {
       "texto": "C.B. MONZÓN AMARILLO - WIYOB BARBASTRO",
       "local": "C.B. MONZÓN AMARILLO",
       "visitante": "WIYOB BARBASTRO",
-      "resultado": null,
+      "resultado": "29-67",
       "fecha": "07/11/2026",
       "hora": "16:00",
-      "campo": "PABELLÓN LOS OLÍMPICOS. C/LOS DEPORTES, S/NÚM (Monzón)"
+      "campo": null
+     }
+    ]
+   },
+   "proxima": {
+    "titulo": "Próxima Jornada 3 14/11/2026",
+    "partidos": [
+     {
+      "texto": "C.B. GRAUS - WIYOB BARBASTRO",
+      "local": "C.B. GRAUS",
+      "visitante": "WIYOB BARBASTRO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PAB. GRAUS. CTRA. BENASQUE S/NÚM (Graus)"
+     },
+     {
+      "texto": "IES RAMON Y CAJAL HUESCA - C.B. MONZÓN AMARILLO",
+      "local": "IES RAMON Y CAJAL HUESCA",
+      "visitante": "C.B. MONZÓN AMARILLO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": null
+     },
+     {
+      "texto": "SUPERMERCADOS ALTOARAGÓN BOSCOS - C.B. MONZÓN NEGRO",
+      "local": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+      "visitante": "C.B. MONZÓN NEGRO",
+      "resultado": null,
+      "fecha": "14/11/2026",
+      "hora": null,
+      "campo": "PAB. DON BOSCO. AV. MONREAL, 14 (Huesca)"
      }
     ]
    },
    "clasificacion": [
     {
      "pos": 1,
-     "equipo": "WIYOB BARBASTRO",
-     "pj": 1,
-     "pg": 1,
+     "equipo": "IES RAMON Y CAJAL HUESCA",
+     "pj": 2,
+     "pg": 2,
      "pp": 0,
-     "pf": 75,
-     "pc": 31,
-     "pts": 2,
-     "dif": "+1"
+     "pf": 118,
+     "pc": 36,
+     "pts": 4,
+     "dif": "+2"
     },
     {
      "pos": 2,
-     "equipo": "IES RAMON Y CAJAL HUESCA",
-     "pj": 1,
-     "pg": 1,
+     "equipo": "WIYOB BARBASTRO",
+     "pj": 2,
+     "pg": 2,
      "pp": 0,
-     "pf": 51,
-     "pc": 21,
-     "pts": 2,
-     "dif": "+1"
+     "pf": 142,
+     "pc": 60,
+     "pts": 4,
+     "dif": "+2"
     },
     {
      "pos": 3,
-     "equipo": "C.B. GRAUS",
-     "pj": 1,
+     "equipo": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
+     "pj": 2,
      "pg": 1,
-     "pp": 0,
-     "pf": 36,
-     "pc": 31,
-     "pts": 2,
+     "pp": 1,
+     "pf": 91,
+     "pc": 83,
+     "pts": 3,
      "dif": "+1"
     },
     {
      "pos": 4,
-     "equipo": "C.B. MONZÓN AMARILLO",
-     "pj": 1,
-     "pg": 0,
+     "equipo": "C.B. GRAUS",
+     "pj": 2,
+     "pg": 1,
      "pp": 1,
-     "pf": 31,
-     "pc": 36,
-     "pts": 1,
+     "pf": 68,
+     "pc": 101,
+     "pts": 3,
      "dif": "-1"
     },
     {
      "pos": 5,
-     "equipo": "SUPERMERCADOS ALTOARAGÓN BOSCOS",
-     "pj": 1,
+     "equipo": "C.B. MONZÓN AMARILLO",
+     "pj": 2,
      "pg": 0,
-     "pp": 1,
-     "pf": 21,
-     "pc": 51,
-     "pts": 1,
-     "dif": "-1"
+     "pp": 2,
+     "pf": 60,
+     "pc": 103,
+     "pts": 2,
+     "dif": "-2"
     },
     {
      "pos": 6,
      "equipo": "C.B. MONZÓN NEGRO",
-     "pj": 1,
+     "pj": 2,
      "pg": 0,
-     "pp": 1,
-     "pf": 31,
-     "pc": 75,
-     "pts": 1,
-     "dif": "-1"
+     "pp": 2,
+     "pf": 46,
+     "pc": 142,
+     "pts": 2,
+     "dif": "-2"
     }
    ],
    "club": "BARBASTRO",
